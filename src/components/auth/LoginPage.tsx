@@ -255,7 +255,7 @@ export const LoginPage: React.FC<LoginPageProps> = ({
               <div className="pt-2">
                 <button
                   type="button"
-                  onClick={() => window.location.href = '/api/auth/google'}
+                  onClick={() => window.location.href = `${window.location.origin}/api/auth/google`}
                   className="w-full py-3 px-4 text-xs sm:text-sm font-bold text-slate-700 dark:text-slate-200 bg-white dark:bg-slate-800 hover:bg-slate-50 dark:hover:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded-xl shadow-sm transition-all flex items-center justify-center gap-2 min-h-[46px] cursor-pointer"
                 >
                   <svg className="w-5 h-5" viewBox="0 0 24 24">
