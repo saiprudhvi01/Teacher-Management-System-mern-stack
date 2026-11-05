@@ -1,0 +1,5807 @@
+{
+  "users": [
+    {
+      "id": "usr_admin_01",
+      "name": "Dr. Aris Thorne",
+      "email": "admin@edutrack.edu",
+      "passwordHash": "$2b$10$agwTcN2jHcxWItPR6vnetOfbgFVkzaip2LA8Hef1t2G3L1gE5M9xy",
+      "role": "admin",
+      "phone": "+1 (555) 019-2831",
+      "status": "active",
+      "createdAt": "2026-01-10"
+    },
+    {
+      "id": "usr_fac_01",
+      "name": "Prof. Marcus Vance",
+      "email": "faculty@edutrack.edu",
+      "passwordHash": "$2b$10$h.7UFgthtcd1irOP.pdau.67nq6Zz6AOndpZPPH8Dz4benkt6rGnG",
+      "role": "faculty",
+      "phone": "+1 (555) 482-9901",
+      "status": "active",
+      "createdAt": "2026-01-12"
+    },
+    {
+      "id": "usr_std_01",
+      "name": "Elena Rostova",
+      "email": "student@edutrack.edu",
+      "passwordHash": "$2b$10$JHE6GAqVly33M6ghYdK6u.EeHnP3n6lR6KkJelIcnjK7.cYRaiFK2",
+      "role": "student",
+      "phone": "+1 (555) 773-1029",
+      "status": "active",
+      "createdAt": "2026-02-01"
+    },
+    {
+      "id": "usr_1793816869596_s2ol",
+      "name": "pavan",
+      "email": "p@gmail.com",
+      "passwordHash": "$2b$10$sZRCKbcOtz62QSqB6DwQU.VVdWxaEY0QRvg2B0ug895dzWJVivqz.",
+      "role": "student",
+      "phone": "",
+      "status": "active",
+      "createdAt": "2026-11-04"
+    },
+    {
+      "id": "usr_1793816932234_g2d1",
+      "name": "pavankumar",
+      "email": "pavan@gmail.com",
+      "passwordHash": "$2b$10$Xfh771c674elia6UFquRxOEyFG6kOzaGPpr0.ba2HQLe41E4F3FjO",
+      "role": "faculty",
+      "phone": "",
+      "status": "active",
+      "createdAt": "2026-11-04"
+    },
+    {
+      "id": "usr_1793819331233_bl76",
+      "name": "pavan",
+      "email": "p1@gmail.com",
+      "passwordHash": "$2b$10$pL7KDtSw9VjdlREm.6..COw1owfFry6m7.voxvf8H/4OofJILCjP.",
+      "role": "student",
+      "phone": "",
+      "status": "active",
+      "createdAt": "2026-11-04"
+    },
+    {
+      "id": "usr_1793819400031_u1pz",
+      "name": "maruthi",
+      "email": "p2@gmail.com",
+      "passwordHash": "$2b$10$Mmlw2iqNgrSPyQNO5by8HODH4RdJBvUBT5NJX4zDhsA5e9k3WcO4W",
+      "role": "student",
+      "phone": "",
+      "status": "active",
+      "createdAt": "2026-11-04"
+    },
+    {
+      "id": "usr_1793819534089_05qm",
+      "name": "maruthi",
+      "email": "pavan1@gmail.com",
+      "passwordHash": "$2b$10$XuBRpC39Xnnir6JgSyAFQ.OytwByNihr9S.TgU8nYM1yC.zHPHSv6",
+      "role": "faculty",
+      "phone": "",
+      "status": "active",
+      "createdAt": "2026-11-04"
+    },
+    {
+      "id": "usr_1793824639016_iwag",
+      "name": "Prof. Test Instructor",
+      "email": "prof.test_1793824639002@edutrack.edu",
+      "passwordHash": "$2b$10$A6zWgWKbJcDnshdJz7VO8OXN9qxT.nt2JP/hpPJDiSStHvBjEgC4G",
+      "role": "faculty",
+      "phone": "",
+      "status": "active",
+      "createdAt": "2026-11-04"
+    },
+    {
+      "id": "usr_1793824878129_sdct",
+      "name": "pavan",
+      "email": "kumar@gmail.com",
+      "passwordHash": "$2b$10$N338/t2Q21DbYlYeAmA.hey.b9ir5.TkIfGr.zkmhES8kz9HNDFlO",
+      "role": "faculty",
+      "phone": "",
+      "status": "active",
+      "createdAt": "2026-11-04"
+    },
+    {
+      "id": "usr_1793825244615_05wn",
+      "name": "maruthi",
+      "email": "kumar1@gmail.com",
+      "passwordHash": "$2b$10$1sItGYSaJX0gHUxis0nfxeiWsi0RZAtYkNt33IgSUTMgL2SGCDE36",
+      "role": "faculty",
+      "phone": "",
+      "status": "active",
+      "createdAt": "2026-11-04"
+    },
+    {
+      "id": "usr_1793849882826_02ar",
+      "name": "shivamani",
+      "email": "p3@gmail.com",
+      "passwordHash": "$2b$10$qA7wpFMKjNGYZsl/.YXMretwztZftVwYbaT/PNw0fEaHRC9zPxBve",
+      "role": "student",
+      "phone": "",
+      "status": "active",
+      "createdAt": "2026-11-05"
+    },
+    {
+      "id": "usr_1793850020186_340j",
+      "name": "pavankumar",
+      "email": "pavan2@gmail.com",
+      "passwordHash": "$2b$10$3YxouK4EBvbnZ52eNZcCAeKC4MIlpe/jKaBJbqou/FBrARBRkc8sm",
+      "role": "faculty",
+      "phone": "",
+      "status": "active",
+      "createdAt": "2026-11-05"
+    },
+    {
+      "id": "usr_std_cse5a",
+      "email": "student5a@edutrack.edu",
+      "password": "$2b$10$eZK0juQQmHDn.w9YnbGdU.fXjiMVGPQcs7DfaIpyD4g7l.CPHhSOu",
+      "name": "Aarav Patel (CSE Sem 5 Sec A)",
+      "role": "student",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150",
+      "phone": "+91 98765 43210",
+      "createdAt": "2026-01-10",
+      "status": "active",
+      "passwordHash": "$2b$10$eZK0juQQmHDn.w9YnbGdU.fXjiMVGPQcs7DfaIpyD4g7l.CPHhSOu"
+    },
+    {
+      "id": "usr_std_cse5b",
+      "email": "student5b@edutrack.edu",
+      "password": "$2b$10$eZK0juQQmHDn.w9YnbGdU.fXjiMVGPQcs7DfaIpyD4g7l.CPHhSOu",
+      "name": "Diya Sharma (CSE Sem 5 Sec B)",
+      "role": "student",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150",
+      "phone": "+91 98765 43210",
+      "createdAt": "2026-01-10",
+      "status": "active",
+      "passwordHash": "$2b$10$eZK0juQQmHDn.w9YnbGdU.fXjiMVGPQcs7DfaIpyD4g7l.CPHhSOu"
+    },
+    {
+      "id": "usr_std_ece5a",
+      "email": "ece5a@edutrack.edu",
+      "password": "$2b$10$eZK0juQQmHDn.w9YnbGdU.fXjiMVGPQcs7DfaIpyD4g7l.CPHhSOu",
+      "name": "Rohan Verma (ECE Sem 5 Sec A)",
+      "role": "student",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150",
+      "phone": "+91 98765 43210",
+      "createdAt": "2026-01-10",
+      "status": "active",
+      "passwordHash": "$2b$10$eZK0juQQmHDn.w9YnbGdU.fXjiMVGPQcs7DfaIpyD4g7l.CPHhSOu"
+    },
+    {
+      "id": "usr_std_cse3a",
+      "email": "cse3a@edutrack.edu",
+      "password": "$2b$10$eZK0juQQmHDn.w9YnbGdU.fXjiMVGPQcs7DfaIpyD4g7l.CPHhSOu",
+      "name": "Ananya Rao (CSE Sem 3 Sec A)",
+      "role": "student",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150",
+      "phone": "+91 98765 43210",
+      "createdAt": "2026-01-10",
+      "status": "active",
+      "passwordHash": "$2b$10$eZK0juQQmHDn.w9YnbGdU.fXjiMVGPQcs7DfaIpyD4g7l.CPHhSOu"
+    },
+    {
+      "id": "usr_1793894124021_fs06",
+      "name": "Saiprudhvi Bodempudi",
+      "email": "saiprudhvibodempudi11@gmail.com",
+      "passwordHash": "",
+      "role": "admin",
+      "phone": "",
+      "status": "active",
+      "createdAt": "2026-11-05"
+    }
+  ],
+  "departments": [
+    {
+      "id": "dept_cse",
+      "code": "CSE",
+      "name": "Computer Science & Engineering",
+      "hodName": "Dr. Katherine Wells",
+      "hodEmail": "k.wells@edutrack.edu",
+      "description": "Department of Computing, Artificial Intelligence & Distributed Systems",
+      "totalStudents": 1,
+      "totalFaculty": 1,
+      "totalSemesters": 8
+    },
+    {
+      "id": "dept_ece",
+      "code": "ECE",
+      "name": "Electronics & Communication",
+      "hodName": "Dr. Ramesh Nair",
+      "hodEmail": "r.nair@edutrack.edu",
+      "description": "VLSI, Embedded Architecture & Signal Processing Systems",
+      "totalStudents": 0,
+      "totalFaculty": 1,
+      "totalSemesters": 8,
+      "numberOfSections": 2
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec_cse_a",
+      "name": "CSE-A",
+      "sectionCode": "A",
+      "departmentId": "dept_cse",
+      "departmentCode": "CSE",
+      "capacity": 8,
+      "enrollmentCount": 7,
+      "status": "active",
+      "createdAt": "2026-01-10"
+    },
+    {
+      "id": "sec_cse_b",
+      "name": "CSE-B",
+      "sectionCode": "B",
+      "departmentId": "dept_cse",
+      "departmentCode": "CSE",
+      "capacity": 60,
+      "enrollmentCount": 1,
+      "status": "active",
+      "createdAt": "2026-01-10"
+    },
+    {
+      "id": "sec_cse_c",
+      "name": "CSE-C",
+      "sectionCode": "C",
+      "departmentId": "dept_cse",
+      "departmentCode": "CSE",
+      "capacity": 60,
+      "enrollmentCount": 0,
+      "status": "active",
+      "createdAt": "2026-01-10"
+    },
+    {
+      "id": "sec_ece_a",
+      "name": "ECE-A",
+      "sectionCode": "A",
+      "departmentId": "dept_ece",
+      "departmentCode": "ECE",
+      "capacity": 60,
+      "enrollmentCount": 1,
+      "status": "active",
+      "createdAt": "2026-01-10"
+    },
+    {
+      "id": "sec_ece_b",
+      "name": "ECE-B",
+      "sectionCode": "B",
+      "departmentId": "dept_ece",
+      "departmentCode": "ECE",
+      "capacity": 60,
+      "enrollmentCount": 0,
+      "status": "active",
+      "createdAt": "2026-01-10"
+    },
+    {
+      "id": "sec_1793827659698_knfo",
+      "name": "CSE-VERIFY-9691",
+      "sectionCode": "9691",
+      "departmentId": "dept_cse",
+      "departmentCode": "CSE",
+      "capacity": 60,
+      "enrollmentCount": 0,
+      "status": "active",
+      "createdAt": "2026-11-04T21:27:39.698Z"
+    },
+    {
+      "id": "sec_1793827848372_83l9",
+      "name": "CSE-VERIFY-8363",
+      "sectionCode": "8363",
+      "departmentId": "dept_cse",
+      "departmentCode": "CSE",
+      "capacity": 60,
+      "enrollmentCount": 0,
+      "status": "active",
+      "createdAt": "2026-11-04T21:30:48.372Z"
+    },
+    {
+      "id": "sec_1793852330351_6v6z",
+      "name": "CSE-VERIFY-0346",
+      "sectionCode": "0346",
+      "departmentId": "dept_cse",
+      "departmentCode": "CSE",
+      "capacity": 60,
+      "enrollmentCount": 0,
+      "status": "active",
+      "createdAt": "2026-11-05T04:18:50.351Z"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "sub_cs401",
+      "code": "CS401",
+      "name": "Distributed Systems & Cloud Computing",
+      "departmentId": "dept_cse",
+      "semester": 6,
+      "credits": 4,
+      "type": "Theory",
+      "theoryDuration": 1,
+      "labDuration": 0,
+      "academicYear": "2026-2027",
+      "status": "active",
+      "syllabus": [
+        "Consensus Protocols (Raft/Paxos)",
+        "Vector Clocks & Causality",
+        "Distributed Storage Engines",
+        "Microservice Architectures"
+      ],
+      "assignedFacultyId": "usr_1793824878129_sdct",
+      "assignedFacultyName": "pavan"
+    },
+    {
+      "id": "sub_cs402",
+      "code": "CS402",
+      "name": "Database Internals & Storage Engines",
+      "departmentId": "dept_cse",
+      "semester": 6,
+      "credits": 4,
+      "type": "Theory",
+      "theoryDuration": 1,
+      "labDuration": 0,
+      "academicYear": "2026-2027",
+      "status": "active",
+      "syllabus": [
+        "B-Tree vs LSM-Trees",
+        "WAL & ARIES Recovery Algorithm",
+        "ACID & Multi-Version Concurrency Control",
+        "Query Optimizer Graphs"
+      ],
+      "assignedFacultyId": "usr_1793825244615_05wn",
+      "assignedFacultyName": "maruthi"
+    },
+    {
+      "id": "sub_cs403",
+      "code": "CS403",
+      "name": "Computer Networks & Security",
+      "departmentId": "dept_cse",
+      "semester": 6,
+      "credits": 3,
+      "type": "Theory",
+      "theoryDuration": 1,
+      "labDuration": 0,
+      "academicYear": "2026-2027",
+      "status": "active",
+      "syllabus": [
+        "Transport Layer Congestion Protocols",
+        "BGP Routing Mesh",
+        "TLS 1.3 Handshake Dynamics",
+        "Zero-Trust Architectures"
+      ],
+      "assignedFacultyId": "usr_fac_01",
+      "assignedFacultyName": "Prof. Marcus Vance"
+    },
+    {
+      "id": "sub_cs404L",
+      "code": "CS404L",
+      "name": "Cloud Infrastructure & DevOps Lab",
+      "departmentId": "dept_cse",
+      "semester": 6,
+      "credits": 2,
+      "type": "Lab only",
+      "theoryDuration": 0,
+      "labDuration": 2,
+      "academicYear": "2026-2027",
+      "status": "active",
+      "syllabus": [
+        "Kubernetes Cluster Orchestration",
+        "Terraform State Management",
+        "Prometheus & Grafana Telemetry",
+        "eBPF Kernel Tracing"
+      ],
+      "assignedFacultyId": "usr_fac_01",
+      "assignedFacultyName": "Prof. Marcus Vance"
+    },
+    {
+      "id": "sub_1793827659719_cs577",
+      "code": "CS577",
+      "name": "Advanced Quantum & Neural Networks",
+      "departmentId": "dept_cse",
+      "departmentCode": "CSE",
+      "semester": 6,
+      "credits": 4,
+      "type": "Theory",
+      "theoryDuration": 1,
+      "labDuration": 0,
+      "academicYear": "2026-2027",
+      "status": "active",
+      "syllabus": []
+    },
+    {
+      "id": "sub_1793827848393_cs547",
+      "code": "CS547",
+      "name": "Advanced Quantum & Neural Networks",
+      "departmentId": "dept_cse",
+      "departmentCode": "CSE",
+      "semester": 6,
+      "credits": 4,
+      "type": "Theory",
+      "theoryDuration": 1,
+      "labDuration": 0,
+      "academicYear": "2026-2027",
+      "status": "active",
+      "syllabus": []
+    },
+    {
+      "id": "sub_1793849938030_ece101",
+      "code": "ECE101",
+      "name": "ADC",
+      "departmentId": "dept_ece",
+      "departmentCode": "ECE",
+      "semester": 6,
+      "credits": 4,
+      "type": "Theory + Lab",
+      "theoryDuration": 1,
+      "labDuration": 2,
+      "academicYear": "2026-2027",
+      "status": "active",
+      "syllabus": [
+        "Fundamental concepts and problem formulations",
+        "Theoretical models and algorithmic paradigms",
+        "Laboratory implementations and case benchmarks"
+      ],
+      "assignedFacultyId": "usr_1793850020186_340j",
+      "assignedFacultyName": "pavankumar"
+    },
+    {
+      "id": "sub_1793849960872_ece102",
+      "code": "ECE102",
+      "name": "SIGNALS",
+      "departmentId": "dept_ece",
+      "departmentCode": "ECE",
+      "semester": 6,
+      "credits": 4,
+      "type": "Theory + Lab",
+      "theoryDuration": 1,
+      "labDuration": 2,
+      "academicYear": "2026-2027",
+      "status": "active",
+      "syllabus": [
+        "Fundamental concepts and problem formulations",
+        "Theoretical models and algorithmic paradigms",
+        "Laboratory implementations and case benchmarks"
+      ]
+    },
+    {
+      "id": "sub_1793852330372_cs843",
+      "code": "CS843",
+      "name": "Advanced Quantum & Neural Networks",
+      "departmentId": "dept_cse",
+      "departmentCode": "CSE",
+      "semester": 6,
+      "credits": 4,
+      "type": "Theory",
+      "theoryDuration": 1,
+      "labDuration": 0,
+      "academicYear": "2026-2027",
+      "status": "active",
+      "syllabus": []
+    },
+    {
+      "id": "sub_cs501",
+      "code": "CS501",
+      "name": "Database Management Systems (DBMS)",
+      "departmentId": "dept_cse",
+      "departmentName": "Computer Science & Engineering",
+      "semester": 5,
+      "credits": 4,
+      "syllabus": "Relational Database Design, SQL, Normalization, Query Processing, Transactions, Concurrency Control, Recovery.",
+      "academicYear": "2026-2027",
+      "assignedFacultyId": "usr_fac_01",
+      "assignedFacultyName": "Prof. Marcus Vance"
+    }
+  ],
+  "teachingAssignments": [
+    {
+      "id": "ta_01",
+      "facultyId": "fac_01",
+      "facultyUserId": "usr_fac_01",
+      "facultyName": "Prof. Marcus Vance",
+      "departmentId": "dept_cse",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "subjectName": "Distributed Systems & Cloud Computing",
+      "semester": 6,
+      "section": "CSE-A",
+      "academicYear": "2026-2027",
+      "status": "active"
+    },
+    {
+      "id": "ta_02",
+      "facultyId": "fac_01",
+      "facultyUserId": "usr_fac_01",
+      "facultyName": "Prof. Marcus Vance",
+      "departmentId": "dept_cse",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "subjectName": "Distributed Systems & Cloud Computing",
+      "semester": 6,
+      "section": "CSE-B",
+      "academicYear": "2026-2027",
+      "status": "active"
+    },
+    {
+      "id": "ta_1793824878274_qzz9",
+      "facultyId": "fac_1793824878272",
+      "facultyUserId": "usr_1793824878129_sdct",
+      "facultyName": "pavan",
+      "departmentId": "dept_cse",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "subjectName": "Distributed Systems & Cloud Computing",
+      "semester": 6,
+      "section": "CSE-A",
+      "academicYear": "2026-2027",
+      "status": "active"
+    },
+    {
+      "id": "ta_1793824878274_kdi3",
+      "facultyId": "fac_1793824878272",
+      "facultyUserId": "usr_1793824878129_sdct",
+      "facultyName": "pavan",
+      "departmentId": "dept_cse",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "subjectName": "Distributed Systems & Cloud Computing",
+      "semester": 6,
+      "section": "CSE-B",
+      "academicYear": "2026-2027",
+      "status": "active"
+    },
+    {
+      "id": "ta_1793824979455_6tkc",
+      "facultyId": "fac_1793824878272",
+      "facultyUserId": "usr_1793824878129_sdct",
+      "facultyName": "pavan",
+      "departmentId": "dept_cse",
+      "subjectId": "sub_cs402",
+      "subjectCode": "CS402",
+      "subjectName": "Database Internals & Storage Engines",
+      "semester": 6,
+      "section": "CSE-A",
+      "academicYear": "2026-2027",
+      "status": "active"
+    },
+    {
+      "id": "ta_1793824979474_3ame",
+      "facultyId": "fac_1793824878272",
+      "facultyUserId": "usr_1793824878129_sdct",
+      "facultyName": "pavan",
+      "departmentId": "dept_cse",
+      "subjectId": "sub_cs402",
+      "subjectCode": "CS402",
+      "subjectName": "Database Internals & Storage Engines",
+      "semester": 6,
+      "section": "CSE-B",
+      "academicYear": "2026-2027",
+      "status": "active"
+    },
+    {
+      "id": "ta_1793824979502_depq",
+      "facultyId": "fac_1793824878272",
+      "facultyUserId": "usr_1793824878129_sdct",
+      "facultyName": "pavan",
+      "departmentId": "dept_cse",
+      "subjectId": "sub_cs402",
+      "subjectCode": "CS402",
+      "subjectName": "Database Internals & Storage Engines",
+      "semester": 6,
+      "section": "CSE-C",
+      "academicYear": "2026-2027",
+      "status": "active"
+    },
+    {
+      "id": "ta_1793825244712_b1ug",
+      "facultyId": "fac_1793825244712",
+      "facultyUserId": "usr_1793825244615_05wn",
+      "facultyName": "maruthi",
+      "departmentId": "dept_cse",
+      "subjectId": "sub_cs402",
+      "subjectCode": "CS402",
+      "subjectName": "Database Internals & Storage Engines",
+      "semester": 6,
+      "section": "CSE-B",
+      "academicYear": "2026-2027",
+      "status": "active"
+    },
+    {
+      "id": "ta_1793825244712_350l",
+      "facultyId": "fac_1793825244712",
+      "facultyUserId": "usr_1793825244615_05wn",
+      "facultyName": "maruthi",
+      "departmentId": "dept_cse",
+      "subjectId": "sub_cs402",
+      "subjectCode": "CS402",
+      "subjectName": "Database Internals & Storage Engines",
+      "semester": 6,
+      "section": "CSE-A",
+      "academicYear": "2026-2027",
+      "status": "active"
+    },
+    {
+      "id": "ta_1793825244712_9asl",
+      "facultyId": "fac_1793825244712",
+      "facultyUserId": "usr_1793825244615_05wn",
+      "facultyName": "maruthi",
+      "departmentId": "dept_cse",
+      "subjectId": "sub_cs402",
+      "subjectCode": "CS402",
+      "subjectName": "Database Internals & Storage Engines",
+      "semester": 6,
+      "section": "CSE-C",
+      "academicYear": "2026-2027",
+      "status": "active"
+    },
+    {
+      "id": "ta_1793828004054_sl82",
+      "facultyId": "fac_1793824878272",
+      "facultyUserId": "usr_1793824878129_sdct",
+      "facultyName": "pavan",
+      "departmentId": "dept_cse",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "subjectName": "Distributed Systems & Cloud Computing",
+      "semester": 6,
+      "section": "CSE-C",
+      "academicYear": "2026-2027",
+      "status": "active"
+    },
+    {
+      "id": "ta_1793850020320_t8me",
+      "facultyId": "fac_1793850020319",
+      "facultyUserId": "usr_1793850020186_340j",
+      "facultyName": "pavankumar",
+      "departmentId": "dept_ece",
+      "subjectId": "sub_1793849938030_ece101",
+      "subjectCode": "ECE101",
+      "subjectName": "ADC",
+      "semester": 6,
+      "section": "ECE-A",
+      "academicYear": "2026-2027",
+      "status": "active"
+    },
+    {
+      "id": "ta_1793850020320_82wi",
+      "facultyId": "fac_1793850020319",
+      "facultyUserId": "usr_1793850020186_340j",
+      "facultyName": "pavankumar",
+      "departmentId": "dept_ece",
+      "subjectId": "sub_1793849938030_ece101",
+      "subjectCode": "ECE101",
+      "subjectName": "ADC",
+      "semester": 6,
+      "section": "ECE-B",
+      "academicYear": "2026-2027",
+      "status": "active"
+    },
+    {
+      "id": "ta_1793874201675_zwk7",
+      "facultyId": "fac_01",
+      "facultyUserId": "usr_fac_01",
+      "facultyName": "Prof. Marcus Vance",
+      "departmentId": "dept_cse",
+      "subjectId": "sub_cs501",
+      "subjectCode": "CS501",
+      "subjectName": "Database Management Systems (DBMS)",
+      "semester": 5,
+      "section": "CSE-A",
+      "academicYear": "2026-2027",
+      "status": "active"
+    },
+    {
+      "id": "ta_1793874201675_wkz4",
+      "facultyId": "fac_01",
+      "facultyUserId": "usr_fac_01",
+      "facultyName": "Prof. Marcus Vance",
+      "departmentId": "dept_cse",
+      "subjectId": "sub_cs501",
+      "subjectCode": "CS501",
+      "subjectName": "Database Management Systems (DBMS)",
+      "semester": 5,
+      "section": "CSE-B",
+      "academicYear": "2026-2027",
+      "status": "active"
+    },
+    {
+      "id": "ta_1793874201675_qk9r",
+      "facultyId": "fac_1793824878272",
+      "facultyUserId": "usr_1793824878129_sdct",
+      "facultyName": "pavan",
+      "departmentId": "dept_cse",
+      "subjectId": "sub_cs501",
+      "subjectCode": "CS501",
+      "subjectName": "Database Management Systems (DBMS)",
+      "semester": 5,
+      "section": "CSE-A",
+      "academicYear": "2026-2027",
+      "status": "active"
+    },
+    {
+      "id": "ta_1793874201675_o2c7",
+      "facultyId": "fac_1793824878272",
+      "facultyUserId": "usr_1793824878129_sdct",
+      "facultyName": "pavan",
+      "departmentId": "dept_cse",
+      "subjectId": "sub_cs501",
+      "subjectCode": "CS501",
+      "subjectName": "Database Management Systems (DBMS)",
+      "semester": 5,
+      "section": "CSE-B",
+      "academicYear": "2026-2027",
+      "status": "active"
+    },
+    {
+      "id": "ta_1793874201675_ipuv",
+      "facultyId": "fac_1793825244712",
+      "facultyUserId": "usr_1793825244615_05wn",
+      "facultyName": "maruthi",
+      "departmentId": "dept_cse",
+      "subjectId": "sub_cs501",
+      "subjectCode": "CS501",
+      "subjectName": "Database Management Systems (DBMS)",
+      "semester": 5,
+      "section": "CSE-A",
+      "academicYear": "2026-2027",
+      "status": "active"
+    },
+    {
+      "id": "ta_1793874201675_d7gn",
+      "facultyId": "fac_1793825244712",
+      "facultyUserId": "usr_1793825244615_05wn",
+      "facultyName": "maruthi",
+      "departmentId": "dept_cse",
+      "subjectId": "sub_cs501",
+      "subjectCode": "CS501",
+      "subjectName": "Database Management Systems (DBMS)",
+      "semester": 5,
+      "section": "CSE-B",
+      "academicYear": "2026-2027",
+      "status": "active"
+    }
+  ],
+  "students": [
+    {
+      "id": "std_01",
+      "userId": "usr_std_01",
+      "rollNumber": "990000001",
+      "registrationNumber": "990000001",
+      "departmentId": "dept_cse",
+      "departmentName": "Computer Science & Engineering",
+      "currentSemester": 6,
+      "section": "CSE-A",
+      "admissionYear": 2023,
+      "academicYear": "2026-2027",
+      "batch": "2023-2027",
+      "cgpa": 9.67,
+      "currentSgpa": 9.67,
+      "attendancePercentage": 86.5,
+      "mentorFacultyId": "usr_fac_01"
+    },
+    {
+      "id": "std_1793816869596_s2ol",
+      "userId": "usr_1793816869596_s2ol",
+      "rollNumber": "990000002",
+      "registrationNumber": "REG-990000002",
+      "departmentId": "dept_cse",
+      "departmentName": "Computer Science & Engineering",
+      "currentSemester": 6,
+      "section": "CSE-A",
+      "admissionYear": 2023,
+      "academicYear": "2026-2027",
+      "batch": "2023-2027",
+      "cgpa": 8.52,
+      "currentSgpa": 8.65,
+      "attendancePercentage": 85.7,
+      "mentorFacultyId": "usr_fac_01",
+      "academicStatus": "Good Standing"
+    },
+    {
+      "id": "std_1793819331233_bl76",
+      "userId": "usr_1793819331233_bl76",
+      "rollNumber": "990000003",
+      "registrationNumber": "REG-990000003",
+      "departmentId": "dept_cse",
+      "departmentName": "Computer Science & Engineering",
+      "currentSemester": 6,
+      "section": "CSE-A",
+      "admissionYear": 2023,
+      "academicYear": "2026-2027",
+      "batch": "2023-2027",
+      "cgpa": 8.52,
+      "currentSgpa": 8.65,
+      "attendancePercentage": 85.7,
+      "mentorFacultyId": "usr_fac_01",
+      "academicStatus": "Good Standing"
+    },
+    {
+      "id": "std_1793819400031_u1pz",
+      "userId": "usr_1793819400031_u1pz",
+      "rollNumber": "990000004",
+      "registrationNumber": "REG-990000004",
+      "departmentId": "dept_cse",
+      "departmentName": "Computer Science & Engineering",
+      "currentSemester": 6,
+      "section": "CSE-A",
+      "admissionYear": 2023,
+      "academicYear": "2026-2027",
+      "batch": "2023-2027",
+      "cgpa": 10,
+      "currentSgpa": 10,
+      "attendancePercentage": 84.6,
+      "mentorFacultyId": "usr_fac_01",
+      "academicStatus": "Good Standing"
+    },
+    {
+      "id": "std_1793849882826_02ar",
+      "userId": "usr_1793849882826_02ar",
+      "rollNumber": "990000005",
+      "registrationNumber": "REG-990000005",
+      "departmentId": "dept_cse",
+      "departmentName": "Computer Science & Engineering",
+      "currentSemester": 6,
+      "section": "CSE-A",
+      "admissionYear": 2023,
+      "academicYear": "2026-2027",
+      "batch": "2023-2027",
+      "cgpa": 8.52,
+      "currentSgpa": 8.65,
+      "attendancePercentage": 86.8,
+      "mentorFacultyId": "usr_fac_01",
+      "academicStatus": "Good Standing"
+    },
+    {
+      "id": "std_cse5a",
+      "userId": "usr_std_cse5a",
+      "rollNumber": "990000051",
+      "registrationNumber": "REG-990000051",
+      "departmentId": "dept_cse",
+      "departmentName": "Computer Science & Engineering",
+      "currentSemester": 5,
+      "section": "CSE-A",
+      "admissionYear": 2024,
+      "academicYear": "2026-2027",
+      "batch": "2024-2028",
+      "cgpa": 8.75,
+      "currentSgpa": 8.85,
+      "attendancePercentage": 85.7,
+      "mentorFacultyId": "usr_fac_01",
+      "academicStatus": "Good Standing"
+    },
+    {
+      "id": "std_cse5b",
+      "userId": "usr_std_cse5b",
+      "rollNumber": "990000052",
+      "registrationNumber": "REG-990000052",
+      "departmentId": "dept_cse",
+      "departmentName": "Computer Science & Engineering",
+      "currentSemester": 5,
+      "section": "CSE-B",
+      "admissionYear": 2024,
+      "academicYear": "2026-2027",
+      "batch": "2024-2028",
+      "cgpa": 8.75,
+      "currentSgpa": 8.85,
+      "attendancePercentage": 88,
+      "mentorFacultyId": "usr_fac_01",
+      "academicStatus": "Good Standing"
+    },
+    {
+      "id": "std_ece5a",
+      "userId": "usr_std_ece5a",
+      "rollNumber": "990000053",
+      "registrationNumber": "REG-990000053",
+      "departmentId": "dept_ece",
+      "departmentName": "Electronics & Communication",
+      "currentSemester": 5,
+      "section": "ECE-A",
+      "admissionYear": 2024,
+      "academicYear": "2026-2027",
+      "batch": "2024-2028",
+      "cgpa": 8.75,
+      "currentSgpa": 8.85,
+      "attendancePercentage": 88,
+      "mentorFacultyId": "usr_fac_01",
+      "academicStatus": "Good Standing"
+    },
+    {
+      "id": "std_cse3a",
+      "userId": "usr_std_cse3a",
+      "rollNumber": "990000054",
+      "registrationNumber": "REG-990000054",
+      "departmentId": "dept_cse",
+      "departmentName": "Computer Science & Engineering",
+      "currentSemester": 3,
+      "section": "CSE-A",
+      "admissionYear": 2024,
+      "academicYear": "2026-2027",
+      "batch": "2024-2028",
+      "cgpa": 8.75,
+      "currentSgpa": 8.85,
+      "attendancePercentage": 88,
+      "mentorFacultyId": "usr_fac_01",
+      "academicStatus": "Good Standing"
+    }
+  ],
+  "faculty": [
+    {
+      "id": "fac_01",
+      "userId": "usr_fac_01",
+      "employeeId": "FAC001",
+      "designation": "Associate Professor",
+      "departmentId": "dept_cse",
+      "departmentName": "Computer Science & Engineering",
+      "qualification": "Ph.D. in Distributed Systems",
+      "specialization": "Consensus & Cloud Systems",
+      "officeRoom": "Tech Block 3, Room 412",
+      "totalClassesAssigned": 4,
+      "assignedSections": [
+        "CSE-A",
+        "CSE-B"
+      ],
+      "assignedSubjectIds": [
+        "sub_cs401",
+        "sub_cs402",
+        "sub_cs403",
+        "sub_cs404L"
+      ],
+      "isHOD": false
+    },
+    {
+      "id": "fac_1793824639113",
+      "userId": "usr_1793824639016_iwag",
+      "employeeId": "FAC_TEST_9002",
+      "designation": "Assistant Professor",
+      "departmentId": "dept_cse",
+      "departmentName": "Computer Science & Engineering",
+      "qualification": "M.Tech / Ph.D.",
+      "specialization": "Core Engineering Curriculum",
+      "officeRoom": "Room 303",
+      "totalClassesAssigned": 0,
+      "assignedSections": [
+        "CSE-A",
+        "CSE-B"
+      ],
+      "assignedSubjectIds": [],
+      "isHOD": false
+    },
+    {
+      "id": "fac_1793824878272",
+      "userId": "usr_1793824878129_sdct",
+      "employeeId": "FAC01",
+      "designation": "Associate Professor",
+      "departmentId": "dept_cse",
+      "departmentName": "Computer Science & Engineering",
+      "qualification": "M.Tech / Ph.D.",
+      "specialization": "Core Engineering Curriculum",
+      "officeRoom": "02838",
+      "totalClassesAssigned": 0,
+      "assignedSections": [
+        "CSE-A",
+        "CSE-B",
+        "CSE-C"
+      ],
+      "assignedSubjectIds": [
+        "sub_cs401",
+        "sub_cs402"
+      ],
+      "isHOD": false
+    },
+    {
+      "id": "fac_1793825244712",
+      "userId": "usr_1793825244615_05wn",
+      "employeeId": "FAC-02",
+      "designation": "Assistant Professor",
+      "departmentId": "dept_cse",
+      "departmentName": "Computer Science & Engineering",
+      "qualification": "M.Tech / Ph.D.",
+      "specialization": "Core Engineering Curriculum",
+      "officeRoom": "Academic Block Room 103",
+      "totalClassesAssigned": 0,
+      "assignedSections": [
+        "CSE-B",
+        "CSE-A",
+        "CSE-C"
+      ],
+      "assignedSubjectIds": [
+        "sub_cs402"
+      ],
+      "isHOD": false
+    },
+    {
+      "id": "fac_1793850020319",
+      "userId": "usr_1793850020186_340j",
+      "employeeId": "FAC-03",
+      "designation": "Associate Professor",
+      "departmentId": "dept_ece",
+      "departmentName": "Electronics & Communication",
+      "qualification": "M.Tech / Ph.D.",
+      "specialization": "Core Engineering Curriculum",
+      "officeRoom": "Academic Block Room 101",
+      "totalClassesAssigned": 0,
+      "assignedSections": [
+        "ECE-A",
+        "ECE-B"
+      ],
+      "assignedSubjectIds": [
+        "sub_1793849938030_ece101"
+      ],
+      "isHOD": false
+    }
+  ],
+  "enrollments": [
+    {
+      "id": "enr_01",
+      "studentId": "std_01",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "subjectName": "Distributed Systems & Cloud Computing",
+      "instructorName": "Prof. Marcus Vance",
+      "credits": 4,
+      "attendedClasses": 7,
+      "totalClasses": 8,
+      "attendancePercentage": 87.5,
+      "semester": 6,
+      "academicYear": "2026-2027",
+      "gradePoints": 10,
+      "grade": "O"
+    },
+    {
+      "id": "enr_02",
+      "studentId": "std_01",
+      "subjectId": "sub_cs402",
+      "subjectCode": "CS402",
+      "subjectName": "Database Internals & Storage Engines",
+      "instructorName": "Prof. Marcus Vance",
+      "credits": 4,
+      "attendedClasses": 20,
+      "totalClasses": 24,
+      "attendancePercentage": 83.3,
+      "semester": 6,
+      "academicYear": "2026-2027"
+    },
+    {
+      "id": "enr_03",
+      "studentId": "std_01",
+      "subjectId": "sub_cs403",
+      "subjectCode": "CS403",
+      "subjectName": "Computer Networks & Security",
+      "instructorName": "Prof. Marcus Vance",
+      "credits": 3,
+      "attendedClasses": 19,
+      "totalClasses": 22,
+      "attendancePercentage": 86.4,
+      "semester": 6,
+      "academicYear": "2026-2027"
+    },
+    {
+      "id": "enr_04",
+      "studentId": "std_01",
+      "subjectId": "sub_cs404L",
+      "subjectCode": "CS404L",
+      "subjectName": "Cloud Infrastructure & DevOps Lab",
+      "instructorName": "Prof. Marcus Vance",
+      "credits": 2,
+      "attendedClasses": 12,
+      "totalClasses": 13,
+      "attendancePercentage": 92.3,
+      "semester": 6,
+      "academicYear": "2026-2027"
+    },
+    {
+      "id": "enr_std_01_sub_1793827659719_cs577",
+      "studentId": "std_01",
+      "subjectId": "sub_1793827659719_cs577",
+      "subjectCode": "CS577",
+      "subjectName": "Advanced Quantum & Neural Networks",
+      "instructorName": "Prof. Marcus Vance",
+      "credits": 4,
+      "attendedClasses": 13,
+      "totalClasses": 15,
+      "attendancePercentage": 86.7,
+      "semester": 6,
+      "academicYear": "2026-2027",
+      "gradePoints": 9,
+      "status": "Enrolled"
+    },
+    {
+      "id": "enr_std_01_sub_1793827848393_cs547",
+      "studentId": "std_01",
+      "subjectId": "sub_1793827848393_cs547",
+      "subjectCode": "CS547",
+      "subjectName": "Advanced Quantum & Neural Networks",
+      "instructorName": "Prof. Marcus Vance",
+      "credits": 4,
+      "attendedClasses": 13,
+      "totalClasses": 15,
+      "attendancePercentage": 86.7,
+      "semester": 6,
+      "academicYear": "2026-2027",
+      "gradePoints": 9,
+      "status": "Enrolled"
+    },
+    {
+      "id": "enr_std_1793816869596_s2ol_sub_cs401",
+      "studentId": "std_1793816869596_s2ol",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "subjectName": "Distributed Systems & Cloud Computing",
+      "instructorName": "pavan",
+      "credits": 4,
+      "attendedClasses": 1,
+      "totalClasses": 2,
+      "attendancePercentage": 50,
+      "semester": 6,
+      "academicYear": "2026-2027",
+      "gradePoints": 9,
+      "status": "Enrolled"
+    },
+    {
+      "id": "enr_std_1793816869596_s2ol_sub_cs402",
+      "studentId": "std_1793816869596_s2ol",
+      "subjectId": "sub_cs402",
+      "subjectCode": "CS402",
+      "subjectName": "Database Internals & Storage Engines",
+      "instructorName": "maruthi",
+      "credits": 4,
+      "attendedClasses": 13,
+      "totalClasses": 15,
+      "attendancePercentage": 86.7,
+      "semester": 6,
+      "academicYear": "2026-2027",
+      "gradePoints": 9,
+      "status": "Enrolled"
+    },
+    {
+      "id": "enr_std_1793816869596_s2ol_sub_cs403",
+      "studentId": "std_1793816869596_s2ol",
+      "subjectId": "sub_cs403",
+      "subjectCode": "CS403",
+      "subjectName": "Computer Networks & Security",
+      "instructorName": "Prof. Marcus Vance",
+      "credits": 3,
+      "attendedClasses": 13,
+      "totalClasses": 15,
+      "attendancePercentage": 86.7,
+      "semester": 6,
+      "academicYear": "2026-2027",
+      "gradePoints": 9,
+      "status": "Enrolled"
+    },
+    {
+      "id": "enr_std_1793816869596_s2ol_sub_cs404L",
+      "studentId": "std_1793816869596_s2ol",
+      "subjectId": "sub_cs404L",
+      "subjectCode": "CS404L",
+      "subjectName": "Cloud Infrastructure & DevOps Lab",
+      "instructorName": "Prof. Marcus Vance",
+      "credits": 2,
+      "attendedClasses": 13,
+      "totalClasses": 15,
+      "attendancePercentage": 86.7,
+      "semester": 6,
+      "academicYear": "2026-2027",
+      "gradePoints": 9,
+      "status": "Enrolled"
+    },
+    {
+      "id": "enr_std_1793816869596_s2ol_sub_1793827659719_cs577",
+      "studentId": "std_1793816869596_s2ol",
+      "subjectId": "sub_1793827659719_cs577",
+      "subjectCode": "CS577",
+      "subjectName": "Advanced Quantum & Neural Networks",
+      "instructorName": "Prof. Marcus Vance",
+      "credits": 4,
+      "attendedClasses": 13,
+      "totalClasses": 15,
+      "attendancePercentage": 86.7,
+      "semester": 6,
+      "academicYear": "2026-2027",
+      "gradePoints": 9,
+      "status": "Enrolled"
+    },
+    {
+      "id": "enr_std_1793816869596_s2ol_sub_1793827848393_cs547",
+      "studentId": "std_1793816869596_s2ol",
+      "subjectId": "sub_1793827848393_cs547",
+      "subjectCode": "CS547",
+      "subjectName": "Advanced Quantum & Neural Networks",
+      "instructorName": "Prof. Marcus Vance",
+      "credits": 4,
+      "attendedClasses": 13,
+      "totalClasses": 15,
+      "attendancePercentage": 86.7,
+      "semester": 6,
+      "academicYear": "2026-2027",
+      "gradePoints": 9,
+      "status": "Enrolled"
+    },
+    {
+      "id": "enr_std_1793819331233_bl76_sub_cs401",
+      "studentId": "std_1793819331233_bl76",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "subjectName": "Distributed Systems & Cloud Computing",
+      "instructorName": "pavan",
+      "credits": 4,
+      "attendedClasses": 1,
+      "totalClasses": 2,
+      "attendancePercentage": 50,
+      "semester": 6,
+      "academicYear": "2026-2027",
+      "gradePoints": 9,
+      "status": "Enrolled"
+    },
+    {
+      "id": "enr_std_1793819331233_bl76_sub_cs402",
+      "studentId": "std_1793819331233_bl76",
+      "subjectId": "sub_cs402",
+      "subjectCode": "CS402",
+      "subjectName": "Database Internals & Storage Engines",
+      "instructorName": "maruthi",
+      "credits": 4,
+      "attendedClasses": 13,
+      "totalClasses": 15,
+      "attendancePercentage": 86.7,
+      "semester": 6,
+      "academicYear": "2026-2027",
+      "gradePoints": 9,
+      "status": "Enrolled"
+    },
+    {
+      "id": "enr_std_1793819331233_bl76_sub_cs403",
+      "studentId": "std_1793819331233_bl76",
+      "subjectId": "sub_cs403",
+      "subjectCode": "CS403",
+      "subjectName": "Computer Networks & Security",
+      "instructorName": "Prof. Marcus Vance",
+      "credits": 3,
+      "attendedClasses": 13,
+      "totalClasses": 15,
+      "attendancePercentage": 86.7,
+      "semester": 6,
+      "academicYear": "2026-2027",
+      "gradePoints": 9,
+      "status": "Enrolled"
+    },
+    {
+      "id": "enr_std_1793819331233_bl76_sub_cs404L",
+      "studentId": "std_1793819331233_bl76",
+      "subjectId": "sub_cs404L",
+      "subjectCode": "CS404L",
+      "subjectName": "Cloud Infrastructure & DevOps Lab",
+      "instructorName": "Prof. Marcus Vance",
+      "credits": 2,
+      "attendedClasses": 13,
+      "totalClasses": 15,
+      "attendancePercentage": 86.7,
+      "semester": 6,
+      "academicYear": "2026-2027",
+      "gradePoints": 9,
+      "status": "Enrolled"
+    },
+    {
+      "id": "enr_std_1793819331233_bl76_sub_1793827659719_cs577",
+      "studentId": "std_1793819331233_bl76",
+      "subjectId": "sub_1793827659719_cs577",
+      "subjectCode": "CS577",
+      "subjectName": "Advanced Quantum & Neural Networks",
+      "instructorName": "Prof. Marcus Vance",
+      "credits": 4,
+      "attendedClasses": 13,
+      "totalClasses": 15,
+      "attendancePercentage": 86.7,
+      "semester": 6,
+      "academicYear": "2026-2027",
+      "gradePoints": 9,
+      "status": "Enrolled"
+    },
+    {
+      "id": "enr_std_1793819331233_bl76_sub_1793827848393_cs547",
+      "studentId": "std_1793819331233_bl76",
+      "subjectId": "sub_1793827848393_cs547",
+      "subjectCode": "CS547",
+      "subjectName": "Advanced Quantum & Neural Networks",
+      "instructorName": "Prof. Marcus Vance",
+      "credits": 4,
+      "attendedClasses": 13,
+      "totalClasses": 15,
+      "attendancePercentage": 86.7,
+      "semester": 6,
+      "academicYear": "2026-2027",
+      "gradePoints": 9,
+      "status": "Enrolled"
+    },
+    {
+      "id": "enr_std_1793819400031_u1pz_sub_cs401",
+      "studentId": "std_1793819400031_u1pz",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "subjectName": "Distributed Systems & Cloud Computing",
+      "instructorName": "pavan",
+      "credits": 4,
+      "attendedClasses": 0,
+      "totalClasses": 2,
+      "attendancePercentage": 0,
+      "semester": 6,
+      "academicYear": "2026-2027",
+      "gradePoints": 10,
+      "status": "Enrolled",
+      "grade": "O"
+    },
+    {
+      "id": "enr_std_1793819400031_u1pz_sub_cs402",
+      "studentId": "std_1793819400031_u1pz",
+      "subjectId": "sub_cs402",
+      "subjectCode": "CS402",
+      "subjectName": "Database Internals & Storage Engines",
+      "instructorName": "maruthi",
+      "credits": 4,
+      "attendedClasses": 13,
+      "totalClasses": 15,
+      "attendancePercentage": 86.7,
+      "semester": 6,
+      "academicYear": "2026-2027",
+      "gradePoints": 9,
+      "status": "Enrolled"
+    },
+    {
+      "id": "enr_std_1793819400031_u1pz_sub_cs403",
+      "studentId": "std_1793819400031_u1pz",
+      "subjectId": "sub_cs403",
+      "subjectCode": "CS403",
+      "subjectName": "Computer Networks & Security",
+      "instructorName": "Prof. Marcus Vance",
+      "credits": 3,
+      "attendedClasses": 13,
+      "totalClasses": 15,
+      "attendancePercentage": 86.7,
+      "semester": 6,
+      "academicYear": "2026-2027",
+      "gradePoints": 9,
+      "status": "Enrolled"
+    },
+    {
+      "id": "enr_std_1793819400031_u1pz_sub_cs404L",
+      "studentId": "std_1793819400031_u1pz",
+      "subjectId": "sub_cs404L",
+      "subjectCode": "CS404L",
+      "subjectName": "Cloud Infrastructure & DevOps Lab",
+      "instructorName": "Prof. Marcus Vance",
+      "credits": 2,
+      "attendedClasses": 13,
+      "totalClasses": 15,
+      "attendancePercentage": 86.7,
+      "semester": 6,
+      "academicYear": "2026-2027",
+      "gradePoints": 9,
+      "status": "Enrolled"
+    },
+    {
+      "id": "enr_std_1793819400031_u1pz_sub_1793827659719_cs577",
+      "studentId": "std_1793819400031_u1pz",
+      "subjectId": "sub_1793827659719_cs577",
+      "subjectCode": "CS577",
+      "subjectName": "Advanced Quantum & Neural Networks",
+      "instructorName": "Prof. Marcus Vance",
+      "credits": 4,
+      "attendedClasses": 13,
+      "totalClasses": 15,
+      "attendancePercentage": 86.7,
+      "semester": 6,
+      "academicYear": "2026-2027",
+      "gradePoints": 9,
+      "status": "Enrolled"
+    },
+    {
+      "id": "enr_std_1793819400031_u1pz_sub_1793827848393_cs547",
+      "studentId": "std_1793819400031_u1pz",
+      "subjectId": "sub_1793827848393_cs547",
+      "subjectCode": "CS547",
+      "subjectName": "Advanced Quantum & Neural Networks",
+      "instructorName": "Prof. Marcus Vance",
+      "credits": 4,
+      "attendedClasses": 13,
+      "totalClasses": 15,
+      "attendancePercentage": 86.7,
+      "semester": 6,
+      "academicYear": "2026-2027",
+      "gradePoints": 9,
+      "status": "Enrolled"
+    },
+    {
+      "id": "enr_std_1793849882826_02ar_sub_cs401",
+      "studentId": "std_1793849882826_02ar",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "subjectName": "Distributed Systems & Cloud Computing",
+      "instructorName": "pavan",
+      "credits": 4,
+      "attendedClasses": 2,
+      "totalClasses": 2,
+      "attendancePercentage": 100,
+      "semester": 6,
+      "academicYear": "2026-2027",
+      "gradePoints": 9,
+      "status": "Enrolled"
+    },
+    {
+      "id": "enr_std_1793849882826_02ar_sub_cs402",
+      "studentId": "std_1793849882826_02ar",
+      "subjectId": "sub_cs402",
+      "subjectCode": "CS402",
+      "subjectName": "Database Internals & Storage Engines",
+      "instructorName": "maruthi",
+      "credits": 4,
+      "attendedClasses": 13,
+      "totalClasses": 15,
+      "attendancePercentage": 86.7,
+      "semester": 6,
+      "academicYear": "2026-2027",
+      "gradePoints": 9,
+      "status": "Enrolled"
+    },
+    {
+      "id": "enr_std_1793849882826_02ar_sub_cs403",
+      "studentId": "std_1793849882826_02ar",
+      "subjectId": "sub_cs403",
+      "subjectCode": "CS403",
+      "subjectName": "Computer Networks & Security",
+      "instructorName": "Prof. Marcus Vance",
+      "credits": 3,
+      "attendedClasses": 13,
+      "totalClasses": 15,
+      "attendancePercentage": 86.7,
+      "semester": 6,
+      "academicYear": "2026-2027",
+      "gradePoints": 9,
+      "status": "Enrolled"
+    },
+    {
+      "id": "enr_std_1793849882826_02ar_sub_cs404L",
+      "studentId": "std_1793849882826_02ar",
+      "subjectId": "sub_cs404L",
+      "subjectCode": "CS404L",
+      "subjectName": "Cloud Infrastructure & DevOps Lab",
+      "instructorName": "Prof. Marcus Vance",
+      "credits": 2,
+      "attendedClasses": 13,
+      "totalClasses": 15,
+      "attendancePercentage": 86.7,
+      "semester": 6,
+      "academicYear": "2026-2027",
+      "gradePoints": 9,
+      "status": "Enrolled"
+    },
+    {
+      "id": "enr_std_1793849882826_02ar_sub_1793827659719_cs577",
+      "studentId": "std_1793849882826_02ar",
+      "subjectId": "sub_1793827659719_cs577",
+      "subjectCode": "CS577",
+      "subjectName": "Advanced Quantum & Neural Networks",
+      "instructorName": "Prof. Marcus Vance",
+      "credits": 4,
+      "attendedClasses": 13,
+      "totalClasses": 15,
+      "attendancePercentage": 86.7,
+      "semester": 6,
+      "academicYear": "2026-2027",
+      "gradePoints": 9,
+      "status": "Enrolled"
+    },
+    {
+      "id": "enr_std_1793849882826_02ar_sub_1793827848393_cs547",
+      "studentId": "std_1793849882826_02ar",
+      "subjectId": "sub_1793827848393_cs547",
+      "subjectCode": "CS547",
+      "subjectName": "Advanced Quantum & Neural Networks",
+      "instructorName": "Prof. Marcus Vance",
+      "credits": 4,
+      "attendedClasses": 13,
+      "totalClasses": 15,
+      "attendancePercentage": 86.7,
+      "semester": 6,
+      "academicYear": "2026-2027",
+      "gradePoints": 9,
+      "status": "Enrolled"
+    },
+    {
+      "id": "enr_std_01_sub_1793852330372_cs843",
+      "studentId": "std_01",
+      "subjectId": "sub_1793852330372_cs843",
+      "subjectCode": "CS843",
+      "subjectName": "Advanced Quantum & Neural Networks",
+      "instructorName": "Prof. Marcus Vance",
+      "credits": 4,
+      "attendedClasses": 12,
+      "totalClasses": 14,
+      "attendancePercentage": 85.7,
+      "semester": 6,
+      "academicYear": "2026-2027",
+      "gradePoints": 8.5,
+      "status": "Enrolled"
+    },
+    {
+      "id": "enr_std_1793816869596_s2ol_sub_1793852330372_cs843",
+      "studentId": "std_1793816869596_s2ol",
+      "subjectId": "sub_1793852330372_cs843",
+      "subjectCode": "CS843",
+      "subjectName": "Advanced Quantum & Neural Networks",
+      "instructorName": "Prof. Marcus Vance",
+      "credits": 4,
+      "attendedClasses": 12,
+      "totalClasses": 14,
+      "attendancePercentage": 85.7,
+      "semester": 6,
+      "academicYear": "2026-2027",
+      "gradePoints": 8.5,
+      "status": "Enrolled"
+    },
+    {
+      "id": "enr_std_1793819331233_bl76_sub_1793852330372_cs843",
+      "studentId": "std_1793819331233_bl76",
+      "subjectId": "sub_1793852330372_cs843",
+      "subjectCode": "CS843",
+      "subjectName": "Advanced Quantum & Neural Networks",
+      "instructorName": "Prof. Marcus Vance",
+      "credits": 4,
+      "attendedClasses": 12,
+      "totalClasses": 14,
+      "attendancePercentage": 85.7,
+      "semester": 6,
+      "academicYear": "2026-2027",
+      "gradePoints": 8.5,
+      "status": "Enrolled"
+    },
+    {
+      "id": "enr_std_1793819400031_u1pz_sub_1793852330372_cs843",
+      "studentId": "std_1793819400031_u1pz",
+      "subjectId": "sub_1793852330372_cs843",
+      "subjectCode": "CS843",
+      "subjectName": "Advanced Quantum & Neural Networks",
+      "instructorName": "Prof. Marcus Vance",
+      "credits": 4,
+      "attendedClasses": 12,
+      "totalClasses": 14,
+      "attendancePercentage": 85.7,
+      "semester": 6,
+      "academicYear": "2026-2027",
+      "gradePoints": 8.5,
+      "status": "Enrolled"
+    },
+    {
+      "id": "enr_std_1793849882826_02ar_sub_1793852330372_cs843",
+      "studentId": "std_1793849882826_02ar",
+      "subjectId": "sub_1793852330372_cs843",
+      "subjectCode": "CS843",
+      "subjectName": "Advanced Quantum & Neural Networks",
+      "instructorName": "Prof. Marcus Vance",
+      "credits": 4,
+      "attendedClasses": 12,
+      "totalClasses": 14,
+      "attendancePercentage": 85.7,
+      "semester": 6,
+      "academicYear": "2026-2027",
+      "gradePoints": 8.5,
+      "status": "Enrolled"
+    },
+    {
+      "id": "enr_std_cse5a_sub_cs501",
+      "studentId": "std_cse5a",
+      "subjectId": "sub_cs501",
+      "subjectCode": "CS501",
+      "subjectName": "Database Management Systems (DBMS)",
+      "instructorName": "Prof. Marcus Vance",
+      "credits": 4,
+      "attendedClasses": 12,
+      "totalClasses": 14,
+      "attendancePercentage": 85.7,
+      "semester": 5,
+      "academicYear": "2026-2027",
+      "gradePoints": 8.5,
+      "status": "Enrolled"
+    },
+    {
+      "id": "enr_std_cse5b_sub_cs501",
+      "studentId": "std_cse5b",
+      "subjectId": "sub_cs501",
+      "subjectCode": "CS501",
+      "subjectName": "Database Management Systems (DBMS)",
+      "instructorName": "Prof. Marcus Vance",
+      "credits": 4,
+      "attendedClasses": 12,
+      "totalClasses": 14,
+      "attendancePercentage": 85.7,
+      "semester": 5,
+      "academicYear": "2026-2027",
+      "gradePoints": 8.5,
+      "status": "Enrolled"
+    }
+  ],
+  "classTimetable": [
+    {
+      "id": "tt_01",
+      "dayOfWeek": "Monday",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "subjectName": "Distributed Systems & Cloud Computing",
+      "departmentId": "dept_cse",
+      "semester": 6,
+      "section": "A",
+      "room": "Lecture Hall 102",
+      "facultyId": "usr_fac_01",
+      "facultyName": "Prof. Marcus Vance"
+    },
+    {
+      "id": "tt_02",
+      "dayOfWeek": "Monday",
+      "startTime": "10:15",
+      "endTime": "11:15",
+      "subjectId": "sub_cs402",
+      "subjectCode": "CS402",
+      "subjectName": "Database Internals & Storage Engines",
+      "departmentId": "dept_cse",
+      "semester": 6,
+      "section": "A",
+      "room": "Lecture Hall 102",
+      "facultyId": "usr_fac_01",
+      "facultyName": "Prof. Marcus Vance"
+    },
+    {
+      "id": "tt_03",
+      "dayOfWeek": "Wednesday",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "subjectId": "sub_cs403",
+      "subjectCode": "CS403",
+      "subjectName": "Computer Networks & Security",
+      "departmentId": "dept_cse",
+      "semester": 6,
+      "section": "A",
+      "room": "Seminar Room 204",
+      "facultyId": "usr_fac_01",
+      "facultyName": "Prof. Marcus Vance"
+    },
+    {
+      "id": "tt_04",
+      "dayOfWeek": "Thursday",
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "subjectId": "sub_cs404L",
+      "subjectCode": "CS404L",
+      "subjectName": "Cloud Infrastructure & DevOps Lab",
+      "departmentId": "dept_cse",
+      "semester": 6,
+      "section": "A",
+      "room": "Computing Lab 4",
+      "facultyId": "usr_fac_01",
+      "facultyName": "Prof. Marcus Vance"
+    },
+    {
+      "id": "tt_1793819660209",
+      "dayOfWeek": "Monday",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "subjectName": "Distributed Systems & Cloud Computing",
+      "departmentId": "dept_cse",
+      "semester": 6,
+      "section": "CSE-A",
+      "room": "Hall 101",
+      "facultyId": "usr_fac_01",
+      "facultyName": "Prof. Marcus Vance",
+      "isPublished": true
+    },
+    {
+      "id": "tt_1793819765949",
+      "dayOfWeek": "Tuesday",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "subjectId": "sub_cs402",
+      "subjectCode": "CS402",
+      "subjectName": "Database Internals & Storage Engines",
+      "departmentId": "dept_cse",
+      "semester": 6,
+      "section": "CSE-A",
+      "room": "Hall 103",
+      "facultyId": "usr_fac_01",
+      "facultyName": "Prof. Marcus Vance",
+      "isPublished": true
+    },
+    {
+      "id": "tt_1793825623508",
+      "dayOfWeek": "Monday",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "subjectId": "sub_cs402",
+      "subjectCode": "CS402",
+      "subjectName": "Database Internals & Storage Engines",
+      "departmentId": "dept_cse",
+      "semester": 6,
+      "section": "CSE-B",
+      "room": "Hall 109",
+      "facultyId": "usr_1793824878129_sdct",
+      "facultyName": "pavan",
+      "isPublished": true
+    }
+  ],
+  "examSchedules": [
+    {
+      "id": "exam_01",
+      "departmentId": "dept_cse",
+      "departmentName": "Computer Science & Engineering",
+      "semester": 6,
+      "section": "A",
+      "academicYear": "2026-2027",
+      "examType": "End-Semester Final",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "subjectName": "Distributed Systems & Cloud Computing",
+      "examDate": "2026-11-15",
+      "startTime": "10:00 AM",
+      "endTime": "01:00 PM",
+      "room": "Auditorium Hall B",
+      "instructions": "Calculators permitted. Closed book. Arrive 15 minutes prior to commencement.",
+      "isPublished": true
+    },
+    {
+      "id": "exam_02",
+      "departmentId": "dept_cse",
+      "departmentName": "Computer Science & Engineering",
+      "semester": 6,
+      "section": "A",
+      "academicYear": "2026-2027",
+      "examType": "End-Semester Final",
+      "subjectId": "sub_cs402",
+      "subjectCode": "CS402",
+      "subjectName": "Database Internals & Storage Engines",
+      "examDate": "2026-11-18",
+      "startTime": "10:00 AM",
+      "endTime": "01:00 PM",
+      "room": "Auditorium Hall B",
+      "instructions": "No digital wearables allowed.",
+      "isPublished": true
+    },
+    {
+      "id": "exam_1793819838113",
+      "departmentId": "dept_cse",
+      "departmentName": "Computer Science & Engineering",
+      "semester": 1,
+      "section": "A",
+      "academicYear": "2026-2027",
+      "examType": "Mid-Term Exam",
+      "subjectId": "sub_cse-04",
+      "subjectCode": "EXAM101",
+      "subjectName": "Final Examination",
+      "examDate": "2026-11-16",
+      "startTime": "10:00 AM",
+      "endTime": "01:00 PM",
+      "room": "Examination Hall 101",
+      "instructions": "University ID card required. Closed book.",
+      "isPublished": true
+    }
+  ],
+  "attendanceSessions": [
+    {
+      "id": "att_sess_1793876206692",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "departmentId": "dept_cse",
+      "semester": 6,
+      "section": "CSE-A",
+      "date": "2026-11-05",
+      "timeSlot": "Regular Period",
+      "facultyId": "usr_1793825244615_05wn",
+      "records": [
+        {
+          "studentId": "std_01",
+          "studentName": "Student",
+          "rollNumber": "990000001",
+          "status": "present"
+        },
+        {
+          "studentId": "std_1793816869596_s2ol",
+          "studentName": "Student",
+          "rollNumber": "990000002",
+          "status": "absent"
+        },
+        {
+          "studentId": "std_1793819331233_bl76",
+          "studentName": "pavan",
+          "rollNumber": "990000003",
+          "status": "present"
+        },
+        {
+          "studentId": "std_1793819400031_u1pz",
+          "studentName": "maruthi",
+          "rollNumber": "990000004",
+          "status": "absent"
+        },
+        {
+          "studentId": "std_1793849882826_02ar",
+          "studentName": "Student",
+          "rollNumber": "990000005",
+          "status": "present"
+        }
+      ],
+      "createdAt": "2026-11-05T10:56:46.692Z"
+    },
+    {
+      "id": "att_sess_1793852468613",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "departmentId": "dept_cse",
+      "semester": 6,
+      "section": "CSE-A",
+      "date": "2026-11-05",
+      "timeSlot": "Regular Period",
+      "facultyId": "usr_1793824878129_sdct",
+      "records": [
+        {
+          "studentId": "std_01",
+          "studentName": "Student",
+          "rollNumber": "990000001",
+          "status": "absent"
+        },
+        {
+          "studentId": "std_1793816869596_s2ol",
+          "studentName": "Student",
+          "rollNumber": "990000002",
+          "status": "present"
+        },
+        {
+          "studentId": "std_1793819331233_bl76",
+          "studentName": "Student",
+          "rollNumber": "990000003",
+          "status": "absent"
+        },
+        {
+          "studentId": "std_1793819400031_u1pz",
+          "studentName": "Student",
+          "rollNumber": "990000004",
+          "status": "absent"
+        },
+        {
+          "studentId": "std_1793849882826_02ar",
+          "studentName": "Student",
+          "rollNumber": "990000005",
+          "status": "present"
+        }
+      ],
+      "createdAt": "2026-11-05T04:21:08.613Z"
+    },
+    {
+      "id": "att_sess_1793852330427",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "departmentId": "dept_cse",
+      "semester": 6,
+      "section": "A",
+      "date": "2026-11-05",
+      "timeSlot": "09:00 - 10:00",
+      "facultyId": "usr_fac_01",
+      "records": [
+        {
+          "studentId": "std_01",
+          "status": "present"
+        }
+      ],
+      "createdAt": "2026-11-05T04:18:50.427Z"
+    },
+    {
+      "id": "att_sess_1793852319357",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "departmentId": "dept_cse",
+      "semester": 6,
+      "section": "A",
+      "date": "2026-03-27",
+      "timeSlot": "09:00 - 10:00",
+      "facultyId": "usr_fac_01",
+      "records": [
+        {
+          "studentId": "stu_01",
+          "rollNumber": "CS2023-001",
+          "studentName": "Alex Mercer",
+          "status": "present"
+        }
+      ],
+      "createdAt": "2026-11-05T04:18:39.357Z"
+    },
+    {
+      "id": "att_sess_1793828163778",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "departmentId": "dept_cse",
+      "semester": 6,
+      "section": "CSE-A",
+      "date": "2026-11-04",
+      "timeSlot": "Regular Period",
+      "facultyId": "usr_1793825244615_05wn",
+      "records": [
+        {
+          "studentId": "std_01",
+          "studentName": "Student",
+          "rollNumber": "990000001",
+          "status": "present"
+        },
+        {
+          "studentId": "std_1793819331128",
+          "studentName": "pavan",
+          "rollNumber": "99240040511",
+          "status": "absent"
+        }
+      ],
+      "createdAt": "2026-11-04T21:36:03.778Z"
+    },
+    {
+      "id": "att_sess_1793827863236",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "departmentId": "dept_cse",
+      "semester": 6,
+      "section": "A",
+      "date": "2026-03-27",
+      "timeSlot": "09:00 - 10:00",
+      "facultyId": "usr_fac_01",
+      "records": [
+        {
+          "studentId": "stu_01",
+          "rollNumber": "CS2023-001",
+          "studentName": "Alex Mercer",
+          "status": "present"
+        }
+      ],
+      "createdAt": "2026-11-04T21:31:03.236Z"
+    },
+    {
+      "id": "att_sess_1793827848451",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "departmentId": "dept_cse",
+      "semester": 6,
+      "section": "A",
+      "date": "2026-11-05",
+      "timeSlot": "09:00 - 10:00",
+      "facultyId": "usr_fac_01",
+      "records": [
+        {
+          "studentId": "std_01",
+          "status": "present"
+        }
+      ],
+      "createdAt": "2026-11-04T21:30:48.451Z"
+    },
+    {
+      "id": "att_sess_1793827659775",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "departmentId": "dept_cse",
+      "semester": 6,
+      "section": "A",
+      "date": "2026-11-05",
+      "timeSlot": "09:00 - 10:00",
+      "facultyId": "usr_fac_01",
+      "records": [
+        {
+          "studentId": "std_01",
+          "status": "present"
+        }
+      ],
+      "createdAt": "2026-11-04T21:27:39.775Z"
+    },
+    {
+      "id": "att_sess_1793827623367",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "departmentId": "dept_cse",
+      "semester": 6,
+      "section": "A",
+      "date": "2026-03-27",
+      "timeSlot": "09:00 - 10:00",
+      "facultyId": "usr_fac_01",
+      "records": [
+        {
+          "studentId": "stu_01",
+          "rollNumber": "CS2023-001",
+          "studentName": "Alex Mercer",
+          "status": "present"
+        }
+      ],
+      "createdAt": "2026-11-04T21:27:03.368Z"
+    },
+    {
+      "id": "att_sess_1793825332310",
+      "subjectId": "sub_cs402",
+      "subjectCode": "CS402",
+      "departmentId": "dept_cse",
+      "semester": 6,
+      "section": "CSE-B",
+      "date": "2026-11-04",
+      "timeSlot": "Regular Period",
+      "facultyId": "usr_1793825244615_05wn",
+      "records": [
+        {
+          "studentId": "std_1793819399928",
+          "studentName": "maruthi",
+          "rollNumber": "99240040870",
+          "status": "present"
+        }
+      ],
+      "createdAt": "2026-11-04T20:48:52.310Z"
+    },
+    {
+      "id": "att_sess_1793825112148",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "departmentId": "dept_cse",
+      "semester": 6,
+      "section": "CSE-A",
+      "date": "2026-11-05",
+      "timeSlot": "Regular Period",
+      "facultyId": "usr_1793824878129_sdct",
+      "records": [
+        {
+          "studentId": "std_01",
+          "studentName": "Student",
+          "rollNumber": "990000001",
+          "status": "present"
+        },
+        {
+          "studentId": "std_1793819331128",
+          "studentName": "pavan",
+          "rollNumber": "99240040511",
+          "status": "present"
+        }
+      ],
+      "createdAt": "2026-11-04T20:45:12.148Z"
+    },
+    {
+      "id": "att_sess_1793824693917",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "departmentId": "dept_cse",
+      "semester": 6,
+      "section": "A",
+      "date": "2026-03-27",
+      "timeSlot": "09:00 - 10:00",
+      "facultyId": "usr_fac_01",
+      "records": [
+        {
+          "studentId": "stu_01",
+          "rollNumber": "CS2023-001",
+          "studentName": "Alex Mercer",
+          "status": "present"
+        }
+      ],
+      "createdAt": "2026-11-04T20:38:13.917Z"
+    },
+    {
+      "id": "att_sess_1793819158320",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "departmentId": "dept_cse",
+      "semester": 6,
+      "section": "A",
+      "date": "2026-03-27",
+      "timeSlot": "09:00 - 10:00",
+      "facultyId": "usr_fac_01",
+      "records": [
+        {
+          "studentId": "stu_01",
+          "rollNumber": "CS2023-001",
+          "studentName": "Alex Mercer",
+          "status": "present"
+        }
+      ],
+      "createdAt": "2026-11-04T19:05:58.320Z"
+    },
+    {
+      "id": "att_sess_1793819132477",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "departmentId": "dept_cse",
+      "semester": 6,
+      "section": "A",
+      "date": "2026-03-27",
+      "timeSlot": "09:00 - 10:00",
+      "facultyId": "usr_fac_01",
+      "records": [
+        {
+          "studentId": "stu_01",
+          "rollNumber": "CS2023-001",
+          "studentName": "Alex Mercer",
+          "status": "present"
+        }
+      ],
+      "createdAt": "2026-11-04T19:05:32.477Z"
+    },
+    {
+      "id": "att_sess_1793819014841",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "departmentId": "dept_cse",
+      "semester": 6,
+      "section": "A",
+      "date": "2026-03-27",
+      "timeSlot": "09:00 - 10:00",
+      "facultyId": "usr_fac_01",
+      "records": [
+        {
+          "studentId": "stu_01",
+          "rollNumber": "CS2023-001",
+          "studentName": "Alex Mercer",
+          "status": "present"
+        }
+      ],
+      "createdAt": "2026-11-04T19:03:34.841Z"
+    },
+    {
+      "id": "att_sess_1793816712905",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "departmentId": "dept_cse",
+      "semester": 6,
+      "section": "A",
+      "date": "2026-03-27",
+      "timeSlot": "09:00 - 10:00",
+      "facultyId": "usr_fac_01",
+      "records": [
+        {
+          "studentId": "stu_01",
+          "rollNumber": "CS2023-001",
+          "studentName": "Alex Mercer",
+          "status": "present"
+        }
+      ],
+      "createdAt": "2026-11-04T18:25:12.905Z"
+    },
+    {
+      "id": "att_sess_01",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "departmentId": "dept_cse",
+      "semester": 6,
+      "section": "A",
+      "date": "2026-10-24",
+      "timeSlot": "09:00 - 10:00",
+      "facultyId": "usr_fac_01",
+      "records": [
+        {
+          "studentId": "std_01",
+          "studentName": "Elena Rostova",
+          "rollNumber": "CS2023-042",
+          "status": "present",
+          "remarks": "On time, active participation"
+        }
+      ],
+      "createdAt": "2026-10-24T10:05:00.000Z"
+    }
+  ],
+  "studyMaterials": [
+    {
+      "id": "mat_01",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "subjectName": "Distributed Systems & Cloud Computing",
+      "facultyId": "usr_fac_01",
+      "facultyName": "Prof. Marcus Vance",
+      "title": "Module 3: Raft Consensus Protocol & Leader Election Analysis",
+      "description": "Comprehensive slides detailing log replication invariants, randomized split-vote timers, and safety proofs.",
+      "type": "pdf",
+      "fileSize": "4.8 MB",
+      "url": "https://arxiv.org/abs/1405.0218",
+      "downloadCount": 38,
+      "uploadDate": "2026-10-18",
+      "semester": 6,
+      "section": "A"
+    },
+    {
+      "id": "mat_02",
+      "subjectId": "sub_cs402",
+      "subjectCode": "CS402",
+      "subjectName": "Database Internals & Storage Engines",
+      "facultyId": "usr_fac_01",
+      "facultyName": "Prof. Marcus Vance",
+      "title": "ARIES Recovery & Write-Ahead Logging Specification Notes",
+      "description": "Detailed analysis of steal/no-force buffer management, compensation log records (CLRs), and checkpointing.",
+      "type": "notes",
+      "fileSize": "2.1 MB",
+      "url": "#",
+      "downloadCount": 45,
+      "uploadDate": "2026-10-20",
+      "semester": 6,
+      "section": "A"
+    }
+  ],
+  "assignments": [
+    {
+      "id": "asg_1793874961300",
+      "title": "pavan",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "subjectName": "Distributed Systems & Cloud Computing",
+      "facultyId": "usr_1793825244615_05wn",
+      "facultyName": "maruthi",
+      "semester": 6,
+      "section": "A",
+      "instructions": "kepp",
+      "dueDate": "2026-11-12",
+      "maxMarks": 50,
+      "topicTag": "",
+      "createdAt": "2026-11-05"
+    },
+    {
+      "id": "asg_1793854460666",
+      "title": "excercise",
+      "subjectId": "sub_cs402",
+      "subjectCode": "CS402",
+      "subjectName": "Database Internals & Storage Engines",
+      "facultyId": "usr_1793825244615_05wn",
+      "facultyName": "maruthi",
+      "semester": 6,
+      "section": "A",
+      "instructions": "kepp forward",
+      "dueDate": "2026-11-05",
+      "maxMarks": 50,
+      "topicTag": "",
+      "createdAt": "2026-11-05"
+    },
+    {
+      "id": "asg_1793854141959",
+      "title": "Valid Future Assignment",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "subjectName": "Distributed Systems & Cloud Computing",
+      "facultyId": "usr_fac_01",
+      "facultyName": "Prof. Marcus Vance",
+      "semester": 6,
+      "section": "All",
+      "instructions": "",
+      "dueDate": "2026-11-25",
+      "maxMarks": 50,
+      "topicTag": "",
+      "createdAt": "2026-11-05"
+    },
+    {
+      "id": "asg_1793852488531",
+      "title": "d bd b xbhd h wdhhwgv",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "subjectName": "Distributed Systems & Cloud Computing",
+      "facultyId": "usr_1793824878129_sdct",
+      "facultyName": "pavan",
+      "semester": 6,
+      "section": "A",
+      "instructions": "dehdbueydbueydbggbrdgvvrrvygrduyhgruydhgerfguerdyg",
+      "dueDate": "2026-10-30",
+      "maxMarks": 50,
+      "topicTag": "",
+      "createdAt": "2026-11-05"
+    },
+    {
+      "id": "asg_1793852330391",
+      "title": "Lab Report: 0387",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "subjectName": "Distributed Systems & Cloud Computing",
+      "facultyId": "usr_fac_01",
+      "facultyName": "Prof. Marcus Vance",
+      "semester": 6,
+      "section": "All",
+      "instructions": "Submit your complete source repository link.",
+      "dueDate": "2026-11-20",
+      "maxMarks": 50,
+      "topicTag": "",
+      "createdAt": "2026-11-05"
+    },
+    {
+      "id": "asg_1793852319382",
+      "title": "Raft Consensus Implementation",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "subjectName": "Distributed Systems & Cloud Computing",
+      "facultyId": "usr_fac_01",
+      "facultyName": "Prof. Marcus Vance",
+      "semester": 6,
+      "section": "All",
+      "instructions": "Submit GitHub repository link and architecture diagram",
+      "dueDate": "2026-04-15",
+      "maxMarks": 100,
+      "topicTag": "",
+      "createdAt": "2026-11-05"
+    },
+    {
+      "id": "asg_1793828218615",
+      "title": "bhbjhbhbhbbjjuhjb",
+      "subjectId": "sub_cs402",
+      "subjectCode": "CS402",
+      "subjectName": "Database Internals & Storage Engines",
+      "facultyId": "usr_1793825244615_05wn",
+      "facultyName": "maruthi",
+      "semester": 6,
+      "section": "A",
+      "instructions": "jhbikbhbikhbiuhiubiuhuhubbbubi",
+      "dueDate": "2026-11-01",
+      "maxMarks": 50,
+      "topicTag": "",
+      "createdAt": "2026-11-04"
+    },
+    {
+      "id": "asg_1793827863260",
+      "title": "Raft Consensus Implementation",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "subjectName": "Distributed Systems & Cloud Computing",
+      "facultyId": "usr_fac_01",
+      "facultyName": "Prof. Marcus Vance",
+      "semester": 6,
+      "section": "All",
+      "instructions": "Submit GitHub repository link and architecture diagram",
+      "dueDate": "2026-04-15",
+      "maxMarks": 100,
+      "topicTag": "",
+      "createdAt": "2026-11-04"
+    },
+    {
+      "id": "asg_1793827848411",
+      "title": "Lab Report: 8404",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "subjectName": "Distributed Systems & Cloud Computing",
+      "facultyId": "usr_fac_01",
+      "facultyName": "Prof. Marcus Vance",
+      "semester": 6,
+      "section": "All",
+      "instructions": "Submit your complete source repository link.",
+      "dueDate": "2026-11-20",
+      "maxMarks": 50,
+      "topicTag": "",
+      "createdAt": "2026-11-04"
+    },
+    {
+      "id": "asg_1793827659739",
+      "title": "Lab Report: 9734",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "subjectName": "Distributed Systems & Cloud Computing",
+      "facultyId": "usr_fac_01",
+      "facultyName": "Prof. Marcus Vance",
+      "semester": 6,
+      "section": "All",
+      "instructions": "Submit your complete source repository link.",
+      "dueDate": "2026-11-20",
+      "maxMarks": 50,
+      "topicTag": "",
+      "createdAt": "2026-11-04"
+    },
+    {
+      "id": "asg_1793827623393",
+      "title": "Raft Consensus Implementation",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "subjectName": "Distributed Systems & Cloud Computing",
+      "facultyId": "usr_fac_01",
+      "facultyName": "Prof. Marcus Vance",
+      "semester": 6,
+      "section": "All",
+      "instructions": "Submit GitHub repository link and architecture diagram",
+      "dueDate": "2026-04-15",
+      "maxMarks": 100,
+      "topicTag": "",
+      "createdAt": "2026-11-04"
+    },
+    {
+      "id": "asg_1793825377508",
+      "title": "de, ,dme ,d,e de dededlk",
+      "subjectId": "sub_cs402",
+      "subjectCode": "CS402",
+      "subjectName": "Database Internals & Storage Engines",
+      "facultyId": "usr_1793825244615_05wn",
+      "facultyName": "maruthi",
+      "semester": 6,
+      "section": "A",
+      "instructions": "k3lkem3llenklkdneldedkendedkne",
+      "dueDate": "2026-11-06",
+      "maxMarks": 50,
+      "topicTag": "",
+      "createdAt": "2026-11-04"
+    },
+    {
+      "id": "asg_1793824693941",
+      "title": "Raft Consensus Implementation",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "subjectName": "Distributed Systems & Cloud Computing",
+      "facultyId": "usr_fac_01",
+      "facultyName": "Prof. Marcus Vance",
+      "semester": 6,
+      "section": "A",
+      "instructions": "Submit GitHub repository link and architecture diagram",
+      "dueDate": "2026-04-15",
+      "maxMarks": 100,
+      "topicTag": "",
+      "createdAt": "2026-11-04"
+    },
+    {
+      "id": "asg_1793819158339",
+      "title": "Raft Consensus Implementation",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "subjectName": "Distributed Systems & Cloud Computing",
+      "facultyId": "usr_fac_01",
+      "facultyName": "Prof. Marcus Vance",
+      "semester": 6,
+      "section": "A",
+      "instructions": "Submit GitHub repository link and architecture diagram",
+      "dueDate": "2026-04-15",
+      "maxMarks": 100,
+      "topicTag": "",
+      "createdAt": "2026-11-04"
+    },
+    {
+      "id": "asg_1793819132496",
+      "title": "Raft Consensus Implementation",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "subjectName": "Distributed Systems & Cloud Computing",
+      "facultyId": "usr_fac_01",
+      "facultyName": "Prof. Marcus Vance",
+      "semester": 6,
+      "section": "A",
+      "instructions": "Submit GitHub repository link and architecture diagram",
+      "dueDate": "2026-04-15",
+      "maxMarks": 100,
+      "topicTag": "",
+      "createdAt": "2026-11-04"
+    },
+    {
+      "id": "asg_1793819014859",
+      "title": "Raft Consensus Implementation",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "subjectName": "Distributed Systems & Cloud Computing",
+      "facultyId": "usr_fac_01",
+      "facultyName": "Prof. Marcus Vance",
+      "semester": 6,
+      "section": "A",
+      "instructions": "Submit GitHub repository link and architecture diagram",
+      "dueDate": "2026-04-15",
+      "maxMarks": 100,
+      "topicTag": "",
+      "createdAt": "2026-11-04"
+    },
+    {
+      "id": "asg_1793816712944",
+      "title": "Raft Consensus Implementation",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "subjectName": "Distributed Systems & Cloud Computing",
+      "facultyId": "usr_fac_01",
+      "facultyName": "Prof. Marcus Vance",
+      "semester": 6,
+      "section": "A",
+      "instructions": "Submit GitHub repository link and architecture diagram",
+      "dueDate": "2026-04-15",
+      "maxMarks": 100,
+      "topicTag": "",
+      "createdAt": "2026-11-04"
+    },
+    {
+      "id": "asg_01",
+      "title": "Assignment 4: Raft State Machine Replicated KV Store Implementation",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "subjectName": "Distributed Systems & Cloud Computing",
+      "facultyId": "usr_fac_01",
+      "facultyName": "Prof. Marcus Vance",
+      "semester": 6,
+      "section": "A",
+      "instructions": "Implement election timer backoff, appendEntries RPC handler, and state machine commit index progression in Go or TypeScript.",
+      "attachmentName": "raft_spec_handout_v2.pdf",
+      "attachmentSize": "1.2 MB",
+      "dueDate": "2026-11-04",
+      "maxMarks": 100,
+      "topicTag": "Raft Consensus Protocols",
+      "createdAt": "2026-10-20"
+    }
+  ],
+  "submissions": [
+    {
+      "id": "sub_1793875065558",
+      "assignmentId": "asg_1793874961300",
+      "studentId": "std_1793819400031_u1pz",
+      "studentName": "maruthi",
+      "rollNumber": "990000004",
+      "submittedAt": "2026-11-05 10:37",
+      "fileName": "1.txt",
+      "fileSize": "0.0 MB",
+      "notes": "",
+      "status": "submitted"
+    },
+    {
+      "id": "sub_1793854212215",
+      "assignmentId": "asg_1793854141959",
+      "studentId": "std_1793819400031_u1pz",
+      "studentName": "maruthi",
+      "rollNumber": "990000004",
+      "submittedAt": "2026-11-05 04:50",
+      "fileName": "Ammi3.jpg",
+      "fileSize": "0.1 MB",
+      "notes": "",
+      "status": "submitted"
+    },
+    {
+      "id": "sub_1793852319404",
+      "assignmentId": "asg_1793852319382",
+      "studentId": "stu_01",
+      "studentName": "Alex Mercer",
+      "rollNumber": "CS2023-001",
+      "submittedAt": "2026-11-05 04:18",
+      "fileName": "raft_cluster_v1.zip",
+      "fileSize": "4.2 MB",
+      "notes": "Implemented leader election and log replication",
+      "status": "graded",
+      "marksAwarded": 98,
+      "facultyFeedback": "Excellent log compaction logic and unit test coverage",
+      "gradedAt": "2026-11-05 04:18"
+    },
+    {
+      "id": "sub_1793827863277",
+      "assignmentId": "asg_1793827863260",
+      "studentId": "stu_01",
+      "studentName": "Alex Mercer",
+      "rollNumber": "CS2023-001",
+      "submittedAt": "2026-11-04 21:31",
+      "fileName": "raft_cluster_v1.zip",
+      "fileSize": "4.2 MB",
+      "notes": "Implemented leader election and log replication",
+      "status": "graded",
+      "marksAwarded": 98,
+      "facultyFeedback": "Excellent log compaction logic and unit test coverage",
+      "gradedAt": "2026-11-04 21:31"
+    },
+    {
+      "id": "sub_1793827623414",
+      "assignmentId": "asg_1793827623393",
+      "studentId": "stu_01",
+      "studentName": "Alex Mercer",
+      "rollNumber": "CS2023-001",
+      "submittedAt": "2026-11-04 21:27",
+      "fileName": "raft_cluster_v1.zip",
+      "fileSize": "4.2 MB",
+      "notes": "Implemented leader election and log replication",
+      "status": "graded",
+      "marksAwarded": 98,
+      "facultyFeedback": "Excellent log compaction logic and unit test coverage",
+      "gradedAt": "2026-11-04 21:27"
+    },
+    {
+      "id": "sub_1793824693957",
+      "assignmentId": "asg_1793824693941",
+      "studentId": "stu_01",
+      "studentName": "Alex Mercer",
+      "rollNumber": "CS2023-001",
+      "submittedAt": "2026-11-04 20:38",
+      "fileName": "raft_cluster_v1.zip",
+      "fileSize": "4.2 MB",
+      "notes": "Implemented leader election and log replication",
+      "status": "graded",
+      "marksAwarded": 98,
+      "facultyFeedback": "Excellent log compaction logic and unit test coverage",
+      "gradedAt": "2026-11-04 20:38"
+    },
+    {
+      "id": "sub_1793819158353",
+      "assignmentId": "asg_1793819158339",
+      "studentId": "stu_01",
+      "studentName": "Alex Mercer",
+      "rollNumber": "CS2023-001",
+      "submittedAt": "2026-11-04 19:05",
+      "fileName": "raft_cluster_v1.zip",
+      "fileSize": "4.2 MB",
+      "notes": "Implemented leader election and log replication",
+      "status": "graded",
+      "marksAwarded": 98,
+      "facultyFeedback": "Excellent log compaction logic and unit test coverage",
+      "gradedAt": "2026-11-04 19:05"
+    },
+    {
+      "id": "sub_1793819132515",
+      "assignmentId": "asg_1793819132496",
+      "studentId": "stu_01",
+      "studentName": "Alex Mercer",
+      "rollNumber": "CS2023-001",
+      "submittedAt": "2026-11-04 19:05",
+      "fileName": "raft_cluster_v1.zip",
+      "fileSize": "4.2 MB",
+      "notes": "Implemented leader election and log replication",
+      "status": "graded",
+      "marksAwarded": 98,
+      "facultyFeedback": "Excellent log compaction logic and unit test coverage",
+      "gradedAt": "2026-11-04 19:05"
+    },
+    {
+      "id": "sub_1793819014876",
+      "assignmentId": "asg_1793819014859",
+      "studentId": "stu_01",
+      "studentName": "Alex Mercer",
+      "rollNumber": "CS2023-001",
+      "submittedAt": "2026-11-04 19:03",
+      "fileName": "raft_cluster_v1.zip",
+      "fileSize": "4.2 MB",
+      "notes": "Implemented leader election and log replication",
+      "status": "graded",
+      "marksAwarded": 98,
+      "facultyFeedback": "Excellent log compaction logic and unit test coverage",
+      "gradedAt": "2026-11-04 19:03"
+    },
+    {
+      "id": "sub_1793816712970",
+      "assignmentId": "asg_1793816712944",
+      "studentId": "stu_01",
+      "studentName": "Alex Mercer",
+      "rollNumber": "CS2023-001",
+      "submittedAt": "2026-11-04 18:25",
+      "fileName": "raft_cluster_v1.zip",
+      "fileSize": "4.2 MB",
+      "notes": "Implemented leader election and log replication",
+      "status": "graded",
+      "marksAwarded": 98,
+      "facultyFeedback": "Excellent log compaction logic and unit test coverage",
+      "gradedAt": "2026-11-04 18:25"
+    },
+    {
+      "id": "sub_sub_01",
+      "assignmentId": "asg_01",
+      "studentId": "std_01",
+      "studentName": "Elena Rostova",
+      "rollNumber": "CS2023-042",
+      "submittedAt": "2026-10-23 17:42",
+      "fileName": "CS2023-042_RaftKV_Submission.zip",
+      "fileSize": "3.4 MB",
+      "notes": "Included automated 200-node cluster unit tests and testbed harness.",
+      "status": "graded",
+      "marksAwarded": 96,
+      "facultyFeedback": "Exemplary log compaction and snapshotting logic. Thorough unit tests passed all fault injection edge cases.",
+      "gradedAt": "2026-10-25 14:10"
+    }
+  ],
+  "internalAssessments": [],
+  "assessmentMarks": [],
+  "results": [
+    {
+      "id": "res_01",
+      "studentId": "std_01",
+      "semester": 5,
+      "sgpa": 9.67,
+      "cgpa": 9.67,
+      "totalCredits": 22,
+      "termName": "Spring 2026 (Semester 5)",
+      "grades": [
+        {
+          "id": "grd_01",
+          "studentId": "std_01",
+          "subjectId": "sub_cs501",
+          "subjectCode": "CS501",
+          "subjectName": "Operating System Kernels",
+          "semester": 5,
+          "credits": 4,
+          "internalMarks": 38,
+          "externalMarks": 54,
+          "totalMarks": 92,
+          "grade": "O",
+          "gradePoint": 10,
+          "status": "Pass"
+        },
+        {
+          "id": "grd_02",
+          "studentId": "std_01",
+          "subjectId": "sub_cs502",
+          "subjectCode": "CS502",
+          "subjectName": "Formal Language & Automata",
+          "semester": 5,
+          "credits": 4,
+          "internalMarks": 36,
+          "externalMarks": 49,
+          "totalMarks": 85,
+          "grade": "A+",
+          "gradePoint": 9,
+          "status": "Pass"
+        },
+        {
+          "id": "grd_std_01_sub_cs401",
+          "studentId": "std_01",
+          "subjectId": "sub_cs401",
+          "subjectCode": "CS401",
+          "subjectName": "Distributed Systems & Cloud Computing",
+          "semester": 6,
+          "credits": 4,
+          "internalMarks": 26,
+          "externalMarks": 39,
+          "totalMarks": 65,
+          "grade": "B+",
+          "gradePoint": 7,
+          "status": "Pass"
+        }
+      ]
+    },
+    {
+      "id": "res_std_1793819400031_u1pz_sem6",
+      "studentId": "std_1793819400031_u1pz",
+      "semester": 6,
+      "sgpa": 10,
+      "cgpa": 10,
+      "totalCredits": 4,
+      "termName": "Semester 6 Final Examinations",
+      "grades": [
+        {
+          "id": "grd_std_1793819400031_u1pz_sub_cs401",
+          "studentId": "std_1793819400031_u1pz",
+          "subjectId": "sub_cs401",
+          "subjectCode": "CS401",
+          "subjectName": "Distributed Systems & Cloud Computing",
+          "semester": 6,
+          "credits": 4,
+          "internalMarks": 40,
+          "externalMarks": 60,
+          "totalMarks": 100,
+          "grade": "O",
+          "gradePoint": 10,
+          "status": "Pass"
+        },
+        {
+          "id": "grd_std_1793819400031_u1pz_CS402",
+          "studentId": "std_1793819400031_u1pz",
+          "subjectId": "sub_cs402",
+          "subjectCode": "CS402",
+          "subjectName": "Database Internals & Storage Engines",
+          "semester": 6,
+          "credits": 4,
+          "internalMarks": 13,
+          "externalMarks": 20,
+          "totalMarks": 33,
+          "grade": "F",
+          "gradePoint": 0,
+          "status": "Fail"
+        }
+      ]
+    },
+    {
+      "id": "res_std_cse5a_sem5",
+      "studentId": "std_cse5a",
+      "semester": 5,
+      "sgpa": 6,
+      "cgpa": 6,
+      "totalCredits": 4,
+      "termName": "Semester 5 Final Examinations",
+      "grades": [
+        {
+          "id": "grd_std_cse5a_CS501",
+          "studentId": "std_cse5a",
+          "subjectId": "sub_cs501",
+          "subjectCode": "CS501",
+          "subjectName": "Database Management Systems (DBMS)",
+          "semester": 5,
+          "credits": 4,
+          "internalMarks": 20,
+          "externalMarks": 30,
+          "totalMarks": 50,
+          "grade": "B",
+          "gradePoint": 6,
+          "status": "Pass"
+        }
+      ]
+    }
+  ],
+  "announcements": [
+    {
+      "id": "ann_1793852319515",
+      "title": "Post-Reconnection Network Verification Ping",
+      "message": "Testing channel integrity after client reconnection.",
+      "audience": "STUDENTS",
+      "publishedBy": "Academic Administration",
+      "publishedAt": "2026-11-05",
+      "priority": "normal"
+    },
+    {
+      "id": "ann_1793852319479",
+      "title": "Spring Research Symposium 2026 Registration Open",
+      "message": "All senior undergraduate students are invited to submit abstracts for the AI & Systems track.",
+      "audience": "STUDENTS",
+      "publishedBy": "Academic Administration",
+      "publishedAt": "2026-11-05",
+      "priority": "high"
+    },
+    {
+      "id": "ann_1793827863383",
+      "title": "Post-Reconnection Network Verification Ping",
+      "message": "Testing channel integrity after client reconnection.",
+      "audience": "STUDENTS",
+      "publishedBy": "Academic Administration",
+      "publishedAt": "2026-11-04",
+      "priority": "normal"
+    },
+    {
+      "id": "ann_1793827863350",
+      "title": "Spring Research Symposium 2026 Registration Open",
+      "message": "All senior undergraduate students are invited to submit abstracts for the AI & Systems track.",
+      "audience": "STUDENTS",
+      "publishedBy": "Academic Administration",
+      "publishedAt": "2026-11-04",
+      "priority": "high"
+    },
+    {
+      "id": "ann_1793827623534",
+      "title": "Post-Reconnection Network Verification Ping",
+      "message": "Testing channel integrity after client reconnection.",
+      "audience": "STUDENTS",
+      "publishedBy": "Academic Administration",
+      "publishedAt": "2026-11-04",
+      "priority": "normal"
+    },
+    {
+      "id": "ann_1793827623495",
+      "title": "Spring Research Symposium 2026 Registration Open",
+      "message": "All senior undergraduate students are invited to submit abstracts for the AI & Systems track.",
+      "audience": "STUDENTS",
+      "publishedBy": "Academic Administration",
+      "publishedAt": "2026-11-04",
+      "priority": "high"
+    },
+    {
+      "id": "ann_1793824694054",
+      "title": "Post-Reconnection Network Verification Ping",
+      "message": "Testing channel integrity after client reconnection.",
+      "audience": "STUDENTS",
+      "publishedBy": "Academic Administration",
+      "publishedAt": "2026-11-04",
+      "priority": "normal"
+    },
+    {
+      "id": "ann_1793824694022",
+      "title": "Spring Research Symposium 2026 Registration Open",
+      "message": "All senior undergraduate students are invited to submit abstracts for the AI & Systems track.",
+      "audience": "STUDENTS",
+      "publishedBy": "Academic Administration",
+      "publishedAt": "2026-11-04",
+      "priority": "high"
+    },
+    {
+      "id": "ann_1793819856214",
+      "title": "sxsmxksmxk",
+      "message": "smlsmlskmlxskm",
+      "audience": "FACULTY",
+      "publishedBy": "Dr. Aris Thorne",
+      "publishedAt": "2026-11-04",
+      "priority": "normal"
+    },
+    {
+      "id": "ann_1793819158449",
+      "title": "Post-Reconnection Network Verification Ping",
+      "message": "Testing channel integrity after client reconnection.",
+      "audience": "STUDENTS",
+      "publishedBy": "Academic Administration",
+      "publishedAt": "2026-11-04",
+      "priority": "normal"
+    },
+    {
+      "id": "ann_1793819158424",
+      "title": "Spring Research Symposium 2026 Registration Open",
+      "message": "All senior undergraduate students are invited to submit abstracts for the AI & Systems track.",
+      "audience": "STUDENTS",
+      "publishedBy": "Academic Administration",
+      "publishedAt": "2026-11-04",
+      "priority": "high"
+    },
+    {
+      "id": "ann_1793819132623",
+      "title": "Post-Reconnection Network Verification Ping",
+      "message": "Testing channel integrity after client reconnection.",
+      "audience": "STUDENTS",
+      "publishedBy": "Academic Administration",
+      "publishedAt": "2026-11-04",
+      "priority": "normal"
+    },
+    {
+      "id": "ann_1793819132587",
+      "title": "Spring Research Symposium 2026 Registration Open",
+      "message": "All senior undergraduate students are invited to submit abstracts for the AI & Systems track.",
+      "audience": "STUDENTS",
+      "publishedBy": "Academic Administration",
+      "publishedAt": "2026-11-04",
+      "priority": "high"
+    },
+    {
+      "id": "ann_1793819018954",
+      "title": "Post-Reconnection Network Verification Ping",
+      "message": "Testing channel integrity after client reconnection.",
+      "audience": "STUDENTS",
+      "publishedBy": "Academic Administration",
+      "publishedAt": "2026-11-04",
+      "priority": "normal"
+    },
+    {
+      "id": "ann_1793819018925",
+      "title": "Spring Research Symposium 2026 Registration Open",
+      "message": "All senior undergraduate students are invited to submit abstracts for the AI & Systems track.",
+      "audience": "STUDENTS",
+      "publishedBy": "Academic Administration",
+      "publishedAt": "2026-11-04",
+      "priority": "high"
+    },
+    {
+      "id": "ann_1793816713091",
+      "title": "Post-Reconnection Network Verification Ping",
+      "message": "Testing channel integrity after client reconnection.",
+      "audience": "STUDENTS",
+      "publishedBy": "Academic Administration",
+      "publishedAt": "2026-11-04",
+      "priority": "normal"
+    },
+    {
+      "id": "ann_1793816713049",
+      "title": "Spring Research Symposium 2026 Registration Open",
+      "message": "All senior undergraduate students are invited to submit abstracts for the AI & Systems track.",
+      "audience": "STUDENTS",
+      "publishedBy": "Academic Administration",
+      "publishedAt": "2026-11-04",
+      "priority": "high"
+    },
+    {
+      "id": "ann_01",
+      "title": "Fall 2026 End-Semester Examination Schedule Published",
+      "message": "The institutional examination board has ratified and published the final datesheet. Students must verify timetable timings and reporting halls.",
+      "audience": "STUDENTS",
+      "departmentId": "dept_cse",
+      "semester": 6,
+      "section": "A",
+      "publishedBy": "Dr. Aris Thorne (Academic Dean)",
+      "publishedAt": "2026-10-22",
+      "priority": "urgent"
+    },
+    {
+      "id": "ann_02",
+      "title": "Continuous Internal Assessment (CIA-2) Submission Window",
+      "message": "Faculty members are reminded to finalize CIA-2 rubric evaluations and publish provisional marks before Friday 17:00 IST.",
+      "audience": "FACULTY",
+      "publishedBy": "Dr. Aris Thorne (Academic Dean)",
+      "publishedAt": "2026-10-25",
+      "priority": "academic"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "audit_1793894294352_ct68",
+      "action": "User Logout",
+      "performedBy": "Saiprudhvi Bodempudi",
+      "role": "admin",
+      "targetEntity": "Session",
+      "details": "User logged out",
+      "timestamp": "2026-11-05 15:58:14"
+    },
+    {
+      "id": "audit_1793894256317_fhr0",
+      "action": "Google OAuth Login",
+      "performedBy": "Saiprudhvi Bodempudi",
+      "role": "admin",
+      "targetEntity": "Session",
+      "details": "Authenticated via Google OAuth as saiprudhvibodempudi11@gmail.com",
+      "timestamp": "2026-11-05 15:57:36"
+    },
+    {
+      "id": "audit_1793894244427_q3y9",
+      "action": "User Logout",
+      "performedBy": "Saiprudhvi Bodempudi",
+      "role": "admin",
+      "targetEntity": "Session",
+      "details": "User logged out",
+      "timestamp": "2026-11-05 15:57:24"
+    },
+    {
+      "id": "audit_1793894176168_zv5z",
+      "action": "Google OAuth Login",
+      "performedBy": "Saiprudhvi Bodempudi",
+      "role": "admin",
+      "targetEntity": "Session",
+      "details": "Authenticated via Google OAuth as saiprudhvibodempudi11@gmail.com",
+      "timestamp": "2026-11-05 15:56:16"
+    },
+    {
+      "id": "audit_1793894124043_o5lk",
+      "action": "Google OAuth Login",
+      "performedBy": "Saiprudhvi Bodempudi",
+      "role": "admin",
+      "targetEntity": "Session",
+      "details": "Authenticated via Google OAuth as saiprudhvibodempudi11@gmail.com",
+      "timestamp": "2026-11-05 15:55:24"
+    },
+    {
+      "id": "audit_1793894124027_qzoy",
+      "action": "Google OAuth Admin Created",
+      "performedBy": "Saiprudhvi Bodempudi",
+      "role": "admin",
+      "targetEntity": "saiprudhvibodempudi11@gmail.com",
+      "details": "Account created via Google OAuth",
+      "timestamp": "2026-11-05 15:55:24"
+    },
+    {
+      "id": "audit_1793876206767_100i",
+      "action": "Attendance Recorded",
+      "performedBy": "maruthi",
+      "role": "faculty",
+      "targetEntity": "Subject CS401",
+      "details": "Recorded period attendance for 5 students on 2026-11-05 (CSE-A)",
+      "timestamp": "2026-11-05 10:56:46"
+    },
+    {
+      "id": "audit_1793876148587_amta",
+      "action": "User Login",
+      "performedBy": "maruthi",
+      "role": "faculty",
+      "targetEntity": "Session",
+      "details": "Authenticated as kumar1@gmail.com (faculty)",
+      "timestamp": "2026-11-05 10:55:48"
+    },
+    {
+      "id": "audit_1793876137484_ypfa",
+      "action": "User Logout",
+      "performedBy": "Dr. Aris Thorne",
+      "role": "admin",
+      "targetEntity": "Session",
+      "details": "User logged out",
+      "timestamp": "2026-11-05 10:55:37"
+    },
+    {
+      "id": "audit_1793876070837_31he",
+      "action": "User Login",
+      "performedBy": "Dr. Aris Thorne",
+      "role": "admin",
+      "targetEntity": "Session",
+      "details": "Authenticated as admin@edutrack.edu (admin)",
+      "timestamp": "2026-11-05 10:54:30"
+    },
+    {
+      "id": "audit_1793876063229_5gbk",
+      "action": "User Logout",
+      "performedBy": "maruthi",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "User logged out",
+      "timestamp": "2026-11-05 10:54:23"
+    },
+    {
+      "id": "audit_1793875132217_cgca",
+      "action": "User Login",
+      "performedBy": "Dr. Aris Thorne",
+      "role": "admin",
+      "targetEntity": "Session",
+      "details": "Authenticated as admin@edutrack.edu (admin)",
+      "timestamp": "2026-11-05 10:38:52"
+    },
+    {
+      "id": "audit_1793875116881_bzui",
+      "action": "User Logout",
+      "performedBy": "maruthi",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "User logged out",
+      "timestamp": "2026-11-05 10:38:36"
+    },
+    {
+      "id": "audit_1793875065560_gphg",
+      "action": "Assignment Submitted",
+      "performedBy": "maruthi",
+      "role": "student",
+      "targetEntity": "Assignment pavan",
+      "details": "Submitted file: 1.txt",
+      "timestamp": "2026-11-05 10:37:45"
+    },
+    {
+      "id": "audit_1793874995688_qkpy",
+      "action": "User Login",
+      "performedBy": "maruthi",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "Authenticated as p2@gmail.com (student)",
+      "timestamp": "2026-11-05 10:36:35"
+    },
+    {
+      "id": "audit_1793874969814_jt2g",
+      "action": "User Logout",
+      "performedBy": "maruthi",
+      "role": "faculty",
+      "targetEntity": "Session",
+      "details": "User logged out",
+      "timestamp": "2026-11-05 10:36:09"
+    },
+    {
+      "id": "audit_1793874961302_9627",
+      "action": "Assignment Created",
+      "performedBy": "maruthi",
+      "role": "faculty",
+      "targetEntity": "Assignment pavan",
+      "details": "Created for CS401, Due: 2026-11-12",
+      "timestamp": "2026-11-05 10:36:01"
+    },
+    {
+      "id": "audit_1793874851406_8ftw",
+      "action": "Exam Results Released",
+      "performedBy": "maruthi",
+      "role": "faculty",
+      "targetEntity": "Exam bjhgfvhbjkl",
+      "details": "Released test results for 1 student submissions",
+      "timestamp": "2026-11-05 10:34:11"
+    },
+    {
+      "id": "audit_1793874837229_a613",
+      "action": "User Login",
+      "performedBy": "maruthi",
+      "role": "faculty",
+      "targetEntity": "Session",
+      "details": "Authenticated as kumar1@gmail.com (faculty)",
+      "timestamp": "2026-11-05 10:33:57"
+    },
+    {
+      "id": "audit_1793874814493_7gf2",
+      "action": "User Logout",
+      "performedBy": "maruthi",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "User logged out",
+      "timestamp": "2026-11-05 10:33:34"
+    },
+    {
+      "id": "audit_1793874795891_ug0g",
+      "action": "Exam Submitted",
+      "performedBy": "maruthi",
+      "role": "student",
+      "targetEntity": "Exam bjhgfvhbjkl",
+      "details": "Submitted exam (3 correct, 0 incorrect, 0 unanswered, score: 30/30)",
+      "timestamp": "2026-11-05 10:33:15"
+    },
+    {
+      "id": "audit_1793874768234_tfbu",
+      "action": "User Login",
+      "performedBy": "maruthi",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "Authenticated as p2@gmail.com (student)",
+      "timestamp": "2026-11-05 10:32:48"
+    },
+    {
+      "id": "audit_1793874749092_xeet",
+      "action": "User Logout",
+      "performedBy": "maruthi",
+      "role": "faculty",
+      "targetEntity": "Session",
+      "details": "User logged out",
+      "timestamp": "2026-11-05 10:32:29"
+    },
+    {
+      "id": "audit_1793874620378_vzwv",
+      "action": "Online Exam Created",
+      "performedBy": "maruthi",
+      "role": "faculty",
+      "targetEntity": "Exam bjhgfvhbjkl",
+      "details": "Created exam for CS401 (All, Sem 6) [DRAFT]",
+      "timestamp": "2026-11-05 10:30:20"
+    },
+    {
+      "id": "audit_1793874570322_ikdy",
+      "action": "User Login",
+      "performedBy": "maruthi",
+      "role": "faculty",
+      "targetEntity": "Session",
+      "details": "Authenticated as kumar1@gmail.com (faculty)",
+      "timestamp": "2026-11-05 10:29:30"
+    },
+    {
+      "id": "audit_1793874551687_po4y",
+      "action": "User Logout",
+      "performedBy": "Dr. Aris Thorne",
+      "role": "admin",
+      "targetEntity": "Session",
+      "details": "User logged out",
+      "timestamp": "2026-11-05 10:29:11"
+    },
+    {
+      "id": "audit_1793874520016_4iey",
+      "action": "User Login",
+      "performedBy": "Dr. Aris Thorne",
+      "role": "admin",
+      "targetEntity": "Session",
+      "details": "Authenticated as admin@edutrack.edu (admin)",
+      "timestamp": "2026-11-05 10:28:40"
+    },
+    {
+      "id": "audit_1793874493866_d8ve",
+      "action": "User Logout",
+      "performedBy": "maruthi",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "User logged out",
+      "timestamp": "2026-11-05 10:28:13"
+    },
+    {
+      "id": "audit_1793874440761_jk50",
+      "action": "Exam Results Released",
+      "performedBy": "Prof. Marcus Vance",
+      "role": "faculty",
+      "targetEntity": "Exam DBMS Unit Test 1",
+      "details": "Released test results for 1 student submissions",
+      "timestamp": "2026-11-05 10:27:20"
+    },
+    {
+      "id": "audit_1793874440738_h1ir",
+      "action": "User Login",
+      "performedBy": "Aarav Patel (CSE Sem 5 Sec A)",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "Authenticated as student5a@edutrack.edu (student)",
+      "timestamp": "2026-11-05 10:27:20"
+    },
+    {
+      "id": "audit_1793874440629_1zuw",
+      "action": "User Login",
+      "performedBy": "Prof. Marcus Vance",
+      "role": "faculty",
+      "targetEntity": "Session",
+      "details": "Authenticated as faculty@edutrack.edu (faculty)",
+      "timestamp": "2026-11-05 10:27:20"
+    },
+    {
+      "id": "audit_1793874424430_edqg",
+      "action": "Exam Submitted",
+      "performedBy": "Aarav Patel (CSE Sem 5 Sec A)",
+      "role": "student",
+      "targetEntity": "Exam DBMS Unit Test 1",
+      "details": "Submitted exam (1 correct, 0 incorrect, 1 unanswered, score: 10/20)",
+      "timestamp": "2026-11-05 10:27:04"
+    },
+    {
+      "id": "audit_1793874424397_hn6p",
+      "action": "User Login",
+      "performedBy": "Aarav Patel (CSE Sem 5 Sec A)",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "Authenticated as student5a@edutrack.edu (student)",
+      "timestamp": "2026-11-05 10:27:04"
+    },
+    {
+      "id": "audit_1793874424287_78b4",
+      "action": "User Login",
+      "performedBy": "Prof. Marcus Vance",
+      "role": "faculty",
+      "targetEntity": "Session",
+      "details": "Authenticated as faculty@edutrack.edu (faculty)",
+      "timestamp": "2026-11-05 10:27:04"
+    },
+    {
+      "id": "audit_1793874399076_y0fm",
+      "action": "User Login",
+      "performedBy": "Ananya Rao (CSE Sem 3 Sec A)",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "Authenticated as cse3a@edutrack.edu (student)",
+      "timestamp": "2026-11-05 10:26:39"
+    },
+    {
+      "id": "audit_1793874398957_qr59",
+      "action": "User Login",
+      "performedBy": "Rohan Verma (ECE Sem 5 Sec A)",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "Authenticated as ece5a@edutrack.edu (student)",
+      "timestamp": "2026-11-05 10:26:38"
+    },
+    {
+      "id": "audit_1793874398846_cw79",
+      "action": "User Login",
+      "performedBy": "Diya Sharma (CSE Sem 5 Sec B)",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "Authenticated as student5b@edutrack.edu (student)",
+      "timestamp": "2026-11-05 10:26:38"
+    },
+    {
+      "id": "audit_1793874398721_6bia",
+      "action": "User Login",
+      "performedBy": "Aarav Patel (CSE Sem 5 Sec A)",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "Authenticated as student5a@edutrack.edu (student)",
+      "timestamp": "2026-11-05 10:26:38"
+    },
+    {
+      "id": "audit_1793874398609_e7tf",
+      "action": "Online Exam Created",
+      "performedBy": "Prof. Marcus Vance",
+      "role": "faculty",
+      "targetEntity": "Exam DBMS Unit Test 1",
+      "details": "Created exam for CS501 (CSE-A, Sem 5) [PUBLISHED]",
+      "timestamp": "2026-11-05 10:26:38"
+    },
+    {
+      "id": "audit_1793874398576_0mor",
+      "action": "User Login",
+      "performedBy": "Prof. Marcus Vance",
+      "role": "faculty",
+      "targetEntity": "Session",
+      "details": "Authenticated as faculty@edutrack.edu (faculty)",
+      "timestamp": "2026-11-05 10:26:38"
+    },
+    {
+      "id": "audit_1793874318923_f953",
+      "action": "Online Exam Created",
+      "performedBy": "Prof. Marcus Vance",
+      "role": "faculty",
+      "targetEntity": "Exam DBMS Unit Test 1",
+      "details": "Created exam for CS501 (CSE-A, Sem 5) [PUBLISHED]",
+      "timestamp": "2026-11-05 10:25:18"
+    },
+    {
+      "id": "audit_1793874318894_3mje",
+      "action": "User Login",
+      "performedBy": "Prof. Marcus Vance",
+      "role": "faculty",
+      "targetEntity": "Session",
+      "details": "Authenticated as faculty@edutrack.edu (faculty)",
+      "timestamp": "2026-11-05 10:25:18"
+    },
+    {
+      "id": "audit_1793872428513_c8x1",
+      "action": "User Login",
+      "performedBy": "maruthi",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "Authenticated as p2@gmail.com (student)",
+      "timestamp": "2026-11-05 09:53:48"
+    },
+    {
+      "id": "audit_1793872417061_nlpx",
+      "action": "User Logout",
+      "performedBy": "maruthi",
+      "role": "faculty",
+      "targetEntity": "Session",
+      "details": "User logged out",
+      "timestamp": "2026-11-05 09:53:37"
+    },
+    {
+      "id": "audit_1793872371879_j73z",
+      "action": "Online Exam Created",
+      "performedBy": "maruthi",
+      "role": "faculty",
+      "targetEntity": "Exam kjhgfdfyui",
+      "details": "Created exam for CS402 (CSE-B, Sem 6) [DRAFT]",
+      "timestamp": "2026-11-05 09:52:51"
+    },
+    {
+      "id": "audit_1793872327862_jfp9",
+      "action": "User Login",
+      "performedBy": "maruthi",
+      "role": "faculty",
+      "targetEntity": "Session",
+      "details": "Authenticated as kumar1@gmail.com (faculty)",
+      "timestamp": "2026-11-05 09:52:07"
+    },
+    {
+      "id": "audit_1793872318699_2o17",
+      "action": "User Logout",
+      "performedBy": "Dr. Aris Thorne",
+      "role": "admin",
+      "targetEntity": "Session",
+      "details": "User logged out",
+      "timestamp": "2026-11-05 09:51:58"
+    },
+    {
+      "id": "audit_1793872271386_kktj",
+      "action": "Section Updated",
+      "performedBy": "Dr. Aris Thorne",
+      "role": "admin",
+      "targetEntity": "Section CSE-A",
+      "details": "Updated capacity to 8, status: active",
+      "timestamp": "2026-11-05 09:51:11"
+    },
+    {
+      "id": "audit_1793872255040_da0u",
+      "action": "User Login",
+      "performedBy": "Dr. Aris Thorne",
+      "role": "admin",
+      "targetEntity": "Session",
+      "details": "Authenticated as admin@edutrack.edu (admin)",
+      "timestamp": "2026-11-05 09:50:55"
+    },
+    {
+      "id": "audit_1793872232023_4l3n",
+      "action": "User Logout",
+      "performedBy": "pavan",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "User logged out",
+      "timestamp": "2026-11-05 09:50:32"
+    },
+    {
+      "id": "audit_1793872210300_95sv",
+      "action": "Exam Submitted",
+      "performedBy": "pavan",
+      "role": "student",
+      "targetEntity": "Exam test",
+      "details": "Submitted exam (0 correct, 3 incorrect, 0 unanswered, score: 0/30)",
+      "timestamp": "2026-11-05 09:50:10"
+    },
+    {
+      "id": "audit_1793872178661_oayx",
+      "action": "User Login",
+      "performedBy": "pavan",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "Authenticated as p1@gmail.com (student)",
+      "timestamp": "2026-11-05 09:49:38"
+    },
+    {
+      "id": "audit_1793872167638_wtnm",
+      "action": "User Logout",
+      "performedBy": "maruthi",
+      "role": "faculty",
+      "targetEntity": "Session",
+      "details": "User logged out",
+      "timestamp": "2026-11-05 09:49:27"
+    },
+    {
+      "id": "audit_1793872105833_7aga",
+      "action": "Exam Results Released",
+      "performedBy": "maruthi",
+      "role": "faculty",
+      "targetEntity": "Exam pavan",
+      "details": "Released test results for 0 student submissions",
+      "timestamp": "2026-11-05 09:48:25"
+    },
+    {
+      "id": "audit_1793872095728_zoup",
+      "action": "User Login",
+      "performedBy": "maruthi",
+      "role": "faculty",
+      "targetEntity": "Session",
+      "details": "Authenticated as kumar1@gmail.com (faculty)",
+      "timestamp": "2026-11-05 09:48:15"
+    },
+    {
+      "id": "audit_1793872088409_8df4",
+      "action": "User Logout",
+      "performedBy": "maruthi",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "User logged out",
+      "timestamp": "2026-11-05 09:48:08"
+    },
+    {
+      "id": "audit_1793872069925_scxz",
+      "action": "Exam Submitted",
+      "performedBy": "maruthi",
+      "role": "student",
+      "targetEntity": "Exam test",
+      "details": "Submitted exam (1 correct, 2 incorrect, 0 unanswered, score: 10/30)",
+      "timestamp": "2026-11-05 09:47:49"
+    },
+    {
+      "id": "audit_1793872024229_ue79",
+      "action": "User Login",
+      "performedBy": "maruthi",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "Authenticated as p2@gmail.com (student)",
+      "timestamp": "2026-11-05 09:47:04"
+    },
+    {
+      "id": "audit_1793872016517_huuy",
+      "action": "User Logout",
+      "performedBy": "maruthi",
+      "role": "faculty",
+      "targetEntity": "Session",
+      "details": "User logged out",
+      "timestamp": "2026-11-05 09:46:56"
+    },
+    {
+      "id": "audit_1793871964103_ppvs",
+      "action": "Online Exam Created",
+      "performedBy": "maruthi",
+      "role": "faculty",
+      "targetEntity": "Exam pavan",
+      "details": "Created exam for CS401 (CSE-B, Sem 6) [DRAFT]",
+      "timestamp": "2026-11-05 09:46:04"
+    },
+    {
+      "id": "audit_1793871908458_r9tf",
+      "action": "User Login",
+      "performedBy": "maruthi",
+      "role": "faculty",
+      "targetEntity": "Session",
+      "details": "Authenticated as kumar1@gmail.com (faculty)",
+      "timestamp": "2026-11-05 09:45:08"
+    },
+    {
+      "id": "audit_1793871897628_j9ec",
+      "action": "User Logout",
+      "performedBy": "maruthi",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "User logged out",
+      "timestamp": "2026-11-05 09:44:57"
+    },
+    {
+      "id": "audit_1793871692703_0sfg",
+      "action": "Exam Results Released",
+      "performedBy": "pavan",
+      "role": "faculty",
+      "targetEntity": "Exam test",
+      "details": "Released test results for 1 student submissions",
+      "timestamp": "2026-11-05 09:41:32"
+    },
+    {
+      "id": "audit_1793871692670_v47q",
+      "action": "Exam Submitted",
+      "performedBy": "maruthi",
+      "role": "student",
+      "targetEntity": "Exam test",
+      "details": "Submitted exam (1 correct, 2 incorrect, 0 unanswered, score: 10/30)",
+      "timestamp": "2026-11-05 09:41:32"
+    },
+    {
+      "id": "audit_1793871629915_cmp0",
+      "action": "Exam Results Released",
+      "performedBy": "Faculty",
+      "role": "faculty",
+      "targetEntity": "Exam test",
+      "details": "Released test results for 0 student submissions",
+      "timestamp": "2026-11-05 09:40:29"
+    },
+    {
+      "id": "audit_1793868970729_ly65",
+      "action": "User Login",
+      "performedBy": "maruthi",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "Authenticated as p2@gmail.com (student)",
+      "timestamp": "2026-11-05 08:56:10"
+    },
+    {
+      "id": "audit_1793868961033_yqwx",
+      "action": "User Logout",
+      "performedBy": "maruthi",
+      "role": "faculty",
+      "targetEntity": "Session",
+      "details": "User logged out",
+      "timestamp": "2026-11-05 08:56:01"
+    },
+    {
+      "id": "audit_1793868924340_0gkq",
+      "action": "User Login",
+      "performedBy": "maruthi",
+      "role": "faculty",
+      "targetEntity": "Session",
+      "details": "Authenticated as kumar1@gmail.com (faculty)",
+      "timestamp": "2026-11-05 08:55:24"
+    },
+    {
+      "id": "audit_1793868915440_vm6r",
+      "action": "User Logout",
+      "performedBy": "maruthi",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "User logged out",
+      "timestamp": "2026-11-05 08:55:15"
+    },
+    {
+      "id": "audit_1793868877376_0i5c",
+      "action": "User Login",
+      "performedBy": "maruthi",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "Authenticated as p2@gmail.com (student)",
+      "timestamp": "2026-11-05 08:54:37"
+    },
+    {
+      "id": "audit_1793868856412_ynig",
+      "action": "User Logout",
+      "performedBy": "maruthi",
+      "role": "faculty",
+      "targetEntity": "Session",
+      "details": "User logged out",
+      "timestamp": "2026-11-05 08:54:16"
+    },
+    {
+      "id": "audit_1793868766672_503a",
+      "action": "Online Exam Created",
+      "performedBy": "maruthi",
+      "role": "faculty",
+      "targetEntity": "Exam test",
+      "details": "Created exam for CS402 (CSE-B, Sem 6) [DRAFT]",
+      "timestamp": "2026-11-05 08:52:46"
+    },
+    {
+      "id": "audit_1793868715859_u3tr",
+      "action": "User Login",
+      "performedBy": "maruthi",
+      "role": "faculty",
+      "targetEntity": "Session",
+      "details": "Authenticated as kumar1@gmail.com (faculty)",
+      "timestamp": "2026-11-05 08:51:55"
+    },
+    {
+      "id": "audit_1793868708049_is3c",
+      "action": "User Logout",
+      "performedBy": "maruthi",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "User logged out",
+      "timestamp": "2026-11-05 08:51:48"
+    },
+    {
+      "id": "audit_1793866516657_esgk",
+      "action": "Exam Submitted",
+      "performedBy": "maruthi",
+      "role": "student",
+      "targetEntity": "Exam test",
+      "details": "Submitted exam (3 correct, 0 incorrect, 0 unanswered, score: 30/30)",
+      "timestamp": "2026-11-05 08:15:16"
+    },
+    {
+      "id": "audit_1793866486911_8pmz",
+      "action": "User Login",
+      "performedBy": "maruthi",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "Authenticated as p2@gmail.com (student)",
+      "timestamp": "2026-11-05 08:14:46"
+    },
+    {
+      "id": "audit_1793866467813_99j6",
+      "action": "User Logout",
+      "performedBy": "maruthi",
+      "role": "faculty",
+      "targetEntity": "Session",
+      "details": "User logged out",
+      "timestamp": "2026-11-05 08:14:27"
+    },
+    {
+      "id": "audit_1793866451570_rq8p",
+      "action": "Exam Results Released",
+      "performedBy": "maruthi",
+      "role": "faculty",
+      "targetEntity": "Exam test",
+      "details": "Released test results for 0 student submissions",
+      "timestamp": "2026-11-05 08:14:11"
+    },
+    {
+      "id": "audit_1793866438800_gc9t",
+      "action": "Exam Results Released",
+      "performedBy": "maruthi",
+      "role": "faculty",
+      "targetEntity": "Exam test",
+      "details": "Released test results for 0 student submissions",
+      "timestamp": "2026-11-05 08:13:58"
+    },
+    {
+      "id": "audit_1793866372596_n6h7",
+      "action": "Online Exam Created",
+      "performedBy": "maruthi",
+      "role": "faculty",
+      "targetEntity": "Exam test",
+      "details": "Created exam for CS403 (CSE-A, Sem 6) [DRAFT]",
+      "timestamp": "2026-11-05 08:12:52"
+    },
+    {
+      "id": "audit_1793866261194_cg4s",
+      "action": "User Login",
+      "performedBy": "maruthi",
+      "role": "faculty",
+      "targetEntity": "Session",
+      "details": "Authenticated as kumar1@gmail.com (faculty)",
+      "timestamp": "2026-11-05 08:11:01"
+    },
+    {
+      "id": "audit_1793866210406_jhp0",
+      "action": "User Logout",
+      "performedBy": "maruthi",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "User logged out",
+      "timestamp": "2026-11-05 08:10:10"
+    },
+    {
+      "id": "audit_1793866120418_auvm",
+      "action": "User Login",
+      "performedBy": "maruthi",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "Authenticated as p2@gmail.com (student)",
+      "timestamp": "2026-11-05 08:08:40"
+    },
+    {
+      "id": "audit_1793866120305_5c43",
+      "action": "Exam Results Released",
+      "performedBy": "Faculty",
+      "role": "faculty",
+      "targetEntity": "Exam Active CSE-A Quiz & Assessment",
+      "details": "Released test results for 1 student submissions",
+      "timestamp": "2026-11-05 08:08:40"
+    },
+    {
+      "id": "audit_1793866078694_bg15",
+      "action": "Exam Submitted",
+      "performedBy": "maruthi",
+      "role": "student",
+      "targetEntity": "Exam Active CSE-A Quiz & Assessment",
+      "details": "Submitted exam (2 correct, 0 incorrect, 0 unanswered, score: 20/20)",
+      "timestamp": "2026-11-05 08:07:58"
+    },
+    {
+      "id": "audit_1793866078637_e17u",
+      "action": "User Login",
+      "performedBy": "maruthi",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "Authenticated as p2@gmail.com (student)",
+      "timestamp": "2026-11-05 08:07:58"
+    },
+    {
+      "id": "audit_1793866032013_x2zw",
+      "action": "User Login",
+      "performedBy": "maruthi",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "Authenticated as p2@gmail.com (student)",
+      "timestamp": "2026-11-05 08:07:12"
+    },
+    {
+      "id": "audit_1793866031896_5bfb",
+      "action": "Online Exam Created",
+      "performedBy": "Faculty",
+      "role": "faculty",
+      "targetEntity": "Exam Active CSE-A Quiz & Assessment",
+      "details": "Created exam for CS402 (CSE-A, Sem 6) [PUBLISHED]",
+      "timestamp": "2026-11-05 08:07:11"
+    },
+    {
+      "id": "audit_1793865969559_yrtl",
+      "action": "User Login",
+      "performedBy": "maruthi",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "Authenticated as p2@gmail.com (student)",
+      "timestamp": "2026-11-05 08:06:09"
+    },
+    {
+      "id": "audit_1793863862120_ewi0",
+      "action": "User Login",
+      "performedBy": "maruthi",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "Authenticated as p2@gmail.com (student)",
+      "timestamp": "2026-11-05 07:31:02"
+    },
+    {
+      "id": "audit_1793863757029_l3j6",
+      "action": "User Login",
+      "performedBy": "maruthi",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "Authenticated as p2@gmail.com (student)",
+      "timestamp": "2026-11-05 07:29:17"
+    },
+    {
+      "id": "audit_1793863740485_o7np",
+      "action": "User Login",
+      "performedBy": "Elena Rostova",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "Authenticated as student@edutrack.edu (student)",
+      "timestamp": "2026-11-05 07:29:00"
+    },
+    {
+      "id": "audit_1793863213436_ndwz",
+      "action": "User Login",
+      "performedBy": "maruthi",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "Authenticated as p2@gmail.com (student)",
+      "timestamp": "2026-11-05 07:20:13"
+    },
+    {
+      "id": "audit_1793863184432_unz9",
+      "action": "User Logout",
+      "performedBy": "maruthi",
+      "role": "faculty",
+      "targetEntity": "Session",
+      "details": "User logged out",
+      "timestamp": "2026-11-05 07:19:44"
+    },
+    {
+      "id": "audit_1793863094670_ac9x",
+      "action": "Online Exam Created",
+      "performedBy": "maruthi",
+      "role": "faculty",
+      "targetEntity": "Exam test",
+      "details": "Created exam for CS402 (CSE-A, Sem 6) [DRAFT]",
+      "timestamp": "2026-11-05 07:18:14"
+    },
+    {
+      "id": "audit_1793863038810_vmx8",
+      "action": "User Login",
+      "performedBy": "maruthi",
+      "role": "faculty",
+      "targetEntity": "Session",
+      "details": "Authenticated as kumar1@gmail.com (faculty)",
+      "timestamp": "2026-11-05 07:17:18"
+    },
+    {
+      "id": "audit_1793862931448_mimz",
+      "action": "User Login",
+      "performedBy": "Elena Rostova",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "Authenticated as student@edutrack.edu (student)",
+      "timestamp": "2026-11-05 07:15:31"
+    },
+    {
+      "id": "audit_1793862931427_2snj",
+      "action": "Online Exam Created",
+      "performedBy": "Prof. Marcus Vance",
+      "role": "faculty",
+      "targetEntity": "Exam Section B Exclusive Advanced Algorithms Exam",
+      "details": "Created exam for CS401 (CSE-B, Sem 6) [PUBLISHED]",
+      "timestamp": "2026-11-05 07:15:31"
+    },
+    {
+      "id": "audit_1793862931401_gopm",
+      "action": "User Login",
+      "performedBy": "Prof. Marcus Vance",
+      "role": "faculty",
+      "targetEntity": "Session",
+      "details": "Authenticated as faculty@edutrack.edu (faculty)",
+      "timestamp": "2026-11-05 07:15:31"
+    },
+    {
+      "id": "audit_1793862894750_bd27",
+      "action": "Exam Results Released",
+      "performedBy": "Prof. Marcus Vance",
+      "role": "faculty",
+      "targetEntity": "Exam Distributed Systems & Consensus Protocol Test",
+      "details": "Released test results for 1 student submissions",
+      "timestamp": "2026-11-05 07:14:54"
+    },
+    {
+      "id": "audit_1793862894720_w497",
+      "action": "Exam Submitted",
+      "performedBy": "Elena Rostova",
+      "role": "student",
+      "targetEntity": "Exam Distributed Systems & Consensus Protocol Test",
+      "details": "Submitted exam (2 correct, 1 incorrect, 0 unanswered, score: 19.5/30)",
+      "timestamp": "2026-11-05 07:14:54"
+    },
+    {
+      "id": "audit_1793862894652_om0i",
+      "action": "User Login",
+      "performedBy": "Elena Rostova",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "Authenticated as student@edutrack.edu (student)",
+      "timestamp": "2026-11-05 07:14:54"
+    },
+    {
+      "id": "audit_1793862894614_ne5i",
+      "action": "Online Exam Created",
+      "performedBy": "Prof. Marcus Vance",
+      "role": "faculty",
+      "targetEntity": "Exam Distributed Systems & Consensus Protocol Test",
+      "details": "Created exam for CS401 (CSE-A, Sem 6) [DRAFT]",
+      "timestamp": "2026-11-05 07:14:54"
+    },
+    {
+      "id": "audit_1793862894582_avno",
+      "action": "User Login",
+      "performedBy": "Prof. Marcus Vance",
+      "role": "faculty",
+      "targetEntity": "Session",
+      "details": "Authenticated as faculty@edutrack.edu (faculty)",
+      "timestamp": "2026-11-05 07:14:54"
+    },
+    {
+      "id": "audit_1793862851156_szue",
+      "action": "Exam Submitted",
+      "performedBy": "Elena Rostova",
+      "role": "student",
+      "targetEntity": "Exam Distributed Systems & Consensus Protocol Test",
+      "details": "Submitted exam (2 correct, 1 incorrect, 0 unanswered, score: 19.5/30)",
+      "timestamp": "2026-11-05 07:14:11"
+    },
+    {
+      "id": "audit_1793862851096_euq9",
+      "action": "User Login",
+      "performedBy": "Elena Rostova",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "Authenticated as student@edutrack.edu (student)",
+      "timestamp": "2026-11-05 07:14:11"
+    },
+    {
+      "id": "audit_1793862851063_os4z",
+      "action": "Online Exam Created",
+      "performedBy": "Prof. Marcus Vance",
+      "role": "faculty",
+      "targetEntity": "Exam Distributed Systems & Consensus Protocol Test",
+      "details": "Created exam for CS401 (CSE-A, Sem 6) [DRAFT]",
+      "timestamp": "2026-11-05 07:14:11"
+    },
+    {
+      "id": "audit_1793862851040_veez",
+      "action": "User Login",
+      "performedBy": "Prof. Marcus Vance",
+      "role": "faculty",
+      "targetEntity": "Session",
+      "details": "Authenticated as faculty@edutrack.edu (faculty)",
+      "timestamp": "2026-11-05 07:14:11"
+    },
+    {
+      "id": "audit_1793862806157_w6vi",
+      "action": "Exam Submitted",
+      "performedBy": "Elena Rostova",
+      "role": "student",
+      "targetEntity": "Exam Distributed Systems & Consensus Protocol Test",
+      "details": "Submitted exam (2 correct, 1 incorrect, 0 unanswered, score: 19.5/30)",
+      "timestamp": "2026-11-05 07:13:26"
+    },
+    {
+      "id": "audit_1793862806092_3iyb",
+      "action": "User Login",
+      "performedBy": "Elena Rostova",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "Authenticated as student@edutrack.edu (student)",
+      "timestamp": "2026-11-05 07:13:26"
+    },
+    {
+      "id": "audit_1793862806058_kezf",
+      "action": "Online Exam Created",
+      "performedBy": "Prof. Marcus Vance",
+      "role": "faculty",
+      "targetEntity": "Exam Distributed Systems & Consensus Protocol Test",
+      "details": "Created exam for CS401 (CSE-A, Sem 6) [DRAFT]",
+      "timestamp": "2026-11-05 07:13:26"
+    },
+    {
+      "id": "audit_1793862806034_3ucj",
+      "action": "User Login",
+      "performedBy": "Prof. Marcus Vance",
+      "role": "faculty",
+      "targetEntity": "Session",
+      "details": "Authenticated as faculty@edutrack.edu (faculty)",
+      "timestamp": "2026-11-05 07:13:26"
+    },
+    {
+      "id": "audit_1793862762405_0n7l",
+      "action": "Exam Submitted",
+      "performedBy": "Elena Rostova",
+      "role": "student",
+      "targetEntity": "Exam Distributed Systems & Consensus Protocol Test",
+      "details": "Submitted exam (2 correct, 1 incorrect, 0 unanswered, score: 19.5/30)",
+      "timestamp": "2026-11-05 07:12:42"
+    },
+    {
+      "id": "audit_1793862762342_o60w",
+      "action": "User Login",
+      "performedBy": "Elena Rostova",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "Authenticated as student@edutrack.edu (student)",
+      "timestamp": "2026-11-05 07:12:42"
+    },
+    {
+      "id": "audit_1793862762309_pajm",
+      "action": "Online Exam Created",
+      "performedBy": "Prof. Marcus Vance",
+      "role": "faculty",
+      "targetEntity": "Exam Distributed Systems & Consensus Protocol Test",
+      "details": "Created exam for CS401 (CSE-A, Sem 6) [DRAFT]",
+      "timestamp": "2026-11-05 07:12:42"
+    },
+    {
+      "id": "audit_1793862762282_w3o8",
+      "action": "User Login",
+      "performedBy": "Prof. Marcus Vance",
+      "role": "faculty",
+      "targetEntity": "Session",
+      "details": "Authenticated as faculty@edutrack.edu (faculty)",
+      "timestamp": "2026-11-05 07:12:42"
+    },
+    {
+      "id": "audit_1793862697587_zg77",
+      "action": "Exam Submitted",
+      "performedBy": "Elena Rostova",
+      "role": "student",
+      "targetEntity": "Exam Distributed Systems & Consensus Protocol Test",
+      "details": "Submitted exam (2 correct, 1 incorrect, 0 unanswered, score: 19.5/30)",
+      "timestamp": "2026-11-05 07:11:37"
+    },
+    {
+      "id": "audit_1793862697516_li9n",
+      "action": "User Login",
+      "performedBy": "Elena Rostova",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "Authenticated as student@edutrack.edu (student)",
+      "timestamp": "2026-11-05 07:11:37"
+    },
+    {
+      "id": "audit_1793862697479_v3mv",
+      "action": "Online Exam Created",
+      "performedBy": "Prof. Marcus Vance",
+      "role": "faculty",
+      "targetEntity": "Exam Distributed Systems & Consensus Protocol Test",
+      "details": "Created exam for CS401 (CSE-A, Sem 6) [DRAFT]",
+      "timestamp": "2026-11-05 07:11:37"
+    },
+    {
+      "id": "audit_1793862697450_zvsn",
+      "action": "User Login",
+      "performedBy": "Prof. Marcus Vance",
+      "role": "faculty",
+      "targetEntity": "Session",
+      "details": "Authenticated as faculty@edutrack.edu (faculty)",
+      "timestamp": "2026-11-05 07:11:37"
+    },
+    {
+      "id": "audit_1793859171659_7xd6",
+      "action": "User Logout",
+      "performedBy": "maruthi",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "User logged out",
+      "timestamp": "2026-11-05 06:12:51"
+    },
+    {
+      "id": "audit_1793859097211_fw40",
+      "action": "User Login",
+      "performedBy": "maruthi",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "Authenticated as p2@gmail.com (student)",
+      "timestamp": "2026-11-05 06:11:37"
+    },
+    {
+      "id": "audit_1793859076091_3s8h",
+      "action": "User Logout",
+      "performedBy": "pavan",
+      "role": "faculty",
+      "targetEntity": "Session",
+      "details": "User logged out",
+      "timestamp": "2026-11-05 06:11:16"
+    },
+    {
+      "id": "audit_1793859066678_abot",
+      "action": "Subject Marks Recorded",
+      "performedBy": "pavan",
+      "role": "faculty",
+      "targetEntity": "Course CS401",
+      "details": "Recorded marks out of 100 for 1 students",
+      "timestamp": "2026-11-05 06:11:06"
+    },
+    {
+      "id": "audit_1793859010705_n6nw",
+      "action": "Subject Marks Recorded",
+      "performedBy": "Faculty",
+      "role": "faculty",
+      "targetEntity": "Course CS401",
+      "details": "Recorded marks out of 100 for 1 students",
+      "timestamp": "2026-11-05 06:10:10"
+    },
+    {
+      "id": "audit_1793854565022_0f3b",
+      "action": "User Login",
+      "performedBy": "pavan",
+      "role": "faculty",
+      "targetEntity": "Session",
+      "details": "Authenticated as kumar@gmail.com (faculty)",
+      "timestamp": "2026-11-05 04:56:05"
+    },
+    {
+      "id": "audit_1793854528761_7tvg",
+      "action": "User Logout",
+      "performedBy": "maruthi",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "User logged out",
+      "timestamp": "2026-11-05 04:55:28"
+    },
+    {
+      "id": "audit_1793854493527_f093",
+      "action": "User Login",
+      "performedBy": "maruthi",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "Authenticated as p2@gmail.com (student)",
+      "timestamp": "2026-11-05 04:54:53"
+    },
+    {
+      "id": "audit_1793854476831_zx0n",
+      "action": "User Logout",
+      "performedBy": "maruthi",
+      "role": "faculty",
+      "targetEntity": "Session",
+      "details": "User logged out",
+      "timestamp": "2026-11-05 04:54:36"
+    },
+    {
+      "id": "audit_1793854460670_gda1",
+      "action": "Assignment Created",
+      "performedBy": "maruthi",
+      "role": "faculty",
+      "targetEntity": "Assignment excercise",
+      "details": "Created for CS402, Due: 2026-11-05",
+      "timestamp": "2026-11-05 04:54:20"
+    },
+    {
+      "id": "audit_1793854336819_htds",
+      "action": "User Login",
+      "performedBy": "maruthi",
+      "role": "faculty",
+      "targetEntity": "Session",
+      "details": "Authenticated as kumar1@gmail.com (faculty)",
+      "timestamp": "2026-11-05 04:52:16"
+    },
+    {
+      "id": "audit_1793854224908_i9pw",
+      "action": "User Logout",
+      "performedBy": "maruthi",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "User logged out",
+      "timestamp": "2026-11-05 04:50:24"
+    },
+    {
+      "id": "audit_1793854212218_uyre",
+      "action": "Assignment Submitted",
+      "performedBy": "maruthi",
+      "role": "student",
+      "targetEntity": "Assignment Valid Future Assignment",
+      "details": "Submitted file: Ammi3.jpg",
+      "timestamp": "2026-11-05 04:50:12"
+    },
+    {
+      "id": "audit_1793854141963_blzn",
+      "action": "Assignment Created",
+      "performedBy": "Faculty",
+      "role": "faculty",
+      "targetEntity": "Assignment Valid Future Assignment",
+      "details": "Created for CS401, Due: 2026-11-25",
+      "timestamp": "2026-11-05 04:49:01"
+    },
+    {
+      "id": "audit_1793852518525_dtf5",
+      "action": "User Login",
+      "performedBy": "maruthi",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "Authenticated as p2@gmail.com (student)",
+      "timestamp": "2026-11-05 04:21:58"
+    },
+    {
+      "id": "audit_1793852495388_b5iy",
+      "action": "User Logout",
+      "performedBy": "pavan",
+      "role": "faculty",
+      "targetEntity": "Session",
+      "details": "User logged out",
+      "timestamp": "2026-11-05 04:21:35"
+    },
+    {
+      "id": "audit_1793852488545_bhe2",
+      "action": "Assignment Created",
+      "performedBy": "pavan",
+      "role": "faculty",
+      "targetEntity": "Assignment d bd b xbhd h wdhhwgv",
+      "details": "Created for CS401, Due: 2026-10-30",
+      "timestamp": "2026-11-05 04:21:28"
+    },
+    {
+      "id": "audit_1793852468693_hgiw",
+      "action": "Attendance Recorded",
+      "performedBy": "pavan",
+      "role": "faculty",
+      "targetEntity": "Subject CS401",
+      "details": "Recorded period attendance for 5 students on 2026-11-05 (CSE-A)",
+      "timestamp": "2026-11-05 04:21:08"
+    },
+    {
+      "id": "audit_1793852436065_hgxl",
+      "action": "User Login",
+      "performedBy": "pavan",
+      "role": "faculty",
+      "targetEntity": "Session",
+      "details": "Authenticated as kumar@gmail.com (faculty)",
+      "timestamp": "2026-11-05 04:20:36"
+    },
+    {
+      "id": "audit_1793852330436_ruyq",
+      "action": "Attendance Recorded",
+      "performedBy": "Faculty",
+      "role": "faculty",
+      "targetEntity": "Subject CS401",
+      "details": "Recorded period attendance for 1 students on 2026-11-05 (A)",
+      "timestamp": "2026-11-05 04:18:50"
+    },
+    {
+      "id": "audit_1793852330413_sqjl",
+      "action": "Assessment Created",
+      "performedBy": "Faculty",
+      "role": "faculty",
+      "targetEntity": "Assessment Unit Quiz: 0406",
+      "details": "Created Quiz for CS401 (25 marks)",
+      "timestamp": "2026-11-05 04:18:50"
+    },
+    {
+      "id": "audit_1793852330392_ggc8",
+      "action": "Assignment Created",
+      "performedBy": "Faculty",
+      "role": "faculty",
+      "targetEntity": "Assignment Lab Report: 0387",
+      "details": "Created for CS401, Due: 2026-11-20",
+      "timestamp": "2026-11-05 04:18:50"
+    },
+    {
+      "id": "audit_1793852330374_oz63",
+      "action": "Subject Created",
+      "performedBy": "Admin",
+      "role": "admin",
+      "targetEntity": "Subject CS843",
+      "details": "Added curriculum: Advanced Quantum & Neural Networks (Theory, Sem 6)",
+      "timestamp": "2026-11-05 04:18:50"
+    },
+    {
+      "id": "audit_1793852330353_ul5u",
+      "action": "Section Created",
+      "performedBy": "Admin",
+      "role": "admin",
+      "targetEntity": "Section CSE-VERIFY-0346",
+      "details": "Created in CSE with capacity 60",
+      "timestamp": "2026-11-05 04:18:50"
+    },
+    {
+      "id": "audit_1793852319518_y2jm",
+      "action": "Announcement Broadcast",
+      "performedBy": "Admin",
+      "role": "admin",
+      "targetEntity": "Notice Post-Reconnection Network Verification Ping",
+      "details": "Target: STUDENTS, Priority: normal",
+      "timestamp": "2026-11-05 04:18:39"
+    },
+    {
+      "id": "audit_1793852319481_3e5c",
+      "action": "Announcement Broadcast",
+      "performedBy": "Admin",
+      "role": "admin",
+      "targetEntity": "Notice Spring Research Symposium 2026 Registration Open",
+      "details": "Target: STUDENTS, Priority: high",
+      "timestamp": "2026-11-05 04:18:39"
+    },
+    {
+      "id": "audit_1793852319466_w83a",
+      "action": "Timetable Entry Removed",
+      "performedBy": "Admin",
+      "role": "admin",
+      "targetEntity": "Slot tt_1793852319449",
+      "details": "Deleted class period",
+      "timestamp": "2026-11-05 04:18:39"
+    },
+    {
+      "id": "audit_1793852319452_9cuh",
+      "action": "Timetable Entry Created",
+      "performedBy": "Admin",
+      "role": "admin",
+      "targetEntity": "Room Seminar Hall 501",
+      "details": "Scheduled CS401 on Saturday (10:00-11:00)",
+      "timestamp": "2026-11-05 04:18:39"
+    },
+    {
+      "id": "audit_1793852319426_6k75",
+      "action": "Submission Graded",
+      "performedBy": "Faculty",
+      "role": "faculty",
+      "targetEntity": "Submission sub_1793852319404",
+      "details": "Awarded 98 marks to Alex Mercer",
+      "timestamp": "2026-11-05 04:18:39"
+    },
+    {
+      "id": "audit_1793852319407_695h",
+      "action": "Assignment Submitted",
+      "performedBy": "Alex Mercer",
+      "role": "student",
+      "targetEntity": "Assignment Raft Consensus Implementation",
+      "details": "Submitted file: raft_cluster_v1.zip",
+      "timestamp": "2026-11-05 04:18:39"
+    },
+    {
+      "id": "audit_1793852319385_yzb1",
+      "action": "Assignment Created",
+      "performedBy": "Faculty",
+      "role": "faculty",
+      "targetEntity": "Assignment Raft Consensus Implementation",
+      "details": "Created for CS401, Due: 2026-04-15",
+      "timestamp": "2026-11-05 04:18:39"
+    },
+    {
+      "id": "audit_1793852319368_jl3h",
+      "action": "Attendance Recorded",
+      "performedBy": "Faculty",
+      "role": "faculty",
+      "targetEntity": "Subject CS401",
+      "details": "Recorded period attendance for 1 students on 2026-03-27 (A)",
+      "timestamp": "2026-11-05 04:18:39"
+    },
+    {
+      "id": "audit_1793852319340_asos",
+      "action": "Marks Submitted",
+      "performedBy": "Faculty",
+      "role": "faculty",
+      "targetEntity": "Assessment cia_1793852319303",
+      "details": "Recorded marks for 1 students",
+      "timestamp": "2026-11-05 04:18:39"
+    },
+    {
+      "id": "audit_1793852319306_lvxj",
+      "action": "Assessment Created",
+      "performedBy": "Faculty",
+      "role": "faculty",
+      "targetEntity": "Assessment Realtime Distributed Systems Quiz 1",
+      "details": "Created CIA-1 for CS401 (50 marks)",
+      "timestamp": "2026-11-05 04:18:39"
+    },
+    {
+      "id": "audit_1793852271759_17vd",
+      "action": "User Login",
+      "performedBy": "maruthi",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "Authenticated as p2@gmail.com (student)",
+      "timestamp": "2026-11-05 04:17:51"
+    },
+    {
+      "id": "audit_1793850144516_43sv",
+      "action": "User Login",
+      "performedBy": "maruthi",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "Authenticated as p2@gmail.com (student)",
+      "timestamp": "2026-11-05 03:42:24"
+    },
+    {
+      "id": "audit_1793850122789_pswa",
+      "action": "User Logout",
+      "performedBy": "pavankumar",
+      "role": "faculty",
+      "targetEntity": "Session",
+      "details": "User logged out",
+      "timestamp": "2026-11-05 03:42:02"
+    },
+    {
+      "id": "audit_1793850066257_bed2",
+      "action": "User Login",
+      "performedBy": "pavankumar",
+      "role": "faculty",
+      "targetEntity": "Session",
+      "details": "Authenticated as pavan2@gmail.com (faculty)",
+      "timestamp": "2026-11-05 03:41:06"
+    },
+    {
+      "id": "audit_1793850048112_7p2v",
+      "action": "User Logout",
+      "performedBy": "Dr. Aris Thorne",
+      "role": "admin",
+      "targetEntity": "Session",
+      "details": "User logged out",
+      "timestamp": "2026-11-05 03:40:48"
+    },
+    {
+      "id": "audit_1793850020322_p5gq",
+      "action": "Faculty Registered",
+      "performedBy": "Dr. Aris Thorne",
+      "role": "admin",
+      "targetEntity": "Faculty pavankumar",
+      "details": "ID: FAC-03, Dept: ECE, Sections: ECE-A, ECE-B",
+      "timestamp": "2026-11-05 03:40:20"
+    },
+    {
+      "id": "audit_1793849960880_lt3j",
+      "action": "Subject Created",
+      "performedBy": "Dr. Aris Thorne",
+      "role": "admin",
+      "targetEntity": "Subject ECE102",
+      "details": "Added curriculum: SIGNALS (Theory + Lab, Sem 6)",
+      "timestamp": "2026-11-05 03:39:20"
+    },
+    {
+      "id": "audit_1793849938034_xuod",
+      "action": "Subject Created",
+      "performedBy": "Dr. Aris Thorne",
+      "role": "admin",
+      "targetEntity": "Subject ECE101",
+      "details": "Added curriculum: ADC (Theory + Lab, Sem 6)",
+      "timestamp": "2026-11-05 03:38:58"
+    },
+    {
+      "id": "audit_1793849903018_shn8",
+      "action": "Section Updated",
+      "performedBy": "Dr. Aris Thorne",
+      "role": "admin",
+      "targetEntity": "Section CSE-A",
+      "details": "Updated capacity to 4, status: active",
+      "timestamp": "2026-11-05 03:38:23"
+    },
+    {
+      "id": "audit_1793849882828_gi7n",
+      "action": "User Registered",
+      "performedBy": "Dr. Aris Thorne",
+      "role": "admin",
+      "targetEntity": "User p3@gmail.com",
+      "details": "Created student account",
+      "timestamp": "2026-11-05 03:38:02"
+    },
+    {
+      "id": "audit_1793849843379_xj4c",
+      "action": "Section Updated",
+      "performedBy": "Dr. Aris Thorne",
+      "role": "admin",
+      "targetEntity": "Section CSE-A",
+      "details": "Updated capacity to 3, status: active",
+      "timestamp": "2026-11-05 03:37:23"
+    },
+    {
+      "id": "audit_1793849734967_iw4e",
+      "action": "User Login",
+      "performedBy": "Dr. Aris Thorne",
+      "role": "admin",
+      "targetEntity": "Session",
+      "details": "Authenticated as admin@edutrack.edu (admin)",
+      "timestamp": "2026-11-05 03:35:34"
+    },
+    {
+      "id": "audit_1793828371769_2ua1",
+      "action": "User Logout",
+      "performedBy": "pavan",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "User logged out",
+      "timestamp": "2026-11-04 21:39:31"
+    },
+    {
+      "id": "audit_1793828355903_s8wo",
+      "action": "User Login",
+      "performedBy": "pavan",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "Authenticated as p1@gmail.com (student)",
+      "timestamp": "2026-11-04 21:39:15"
+    },
+    {
+      "id": "audit_1793828325604_ulvc",
+      "action": "User Logout",
+      "performedBy": "maruthi",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "User logged out",
+      "timestamp": "2026-11-04 21:38:45"
+    },
+    {
+      "id": "audit_1793828310684_lw20",
+      "action": "User Login",
+      "performedBy": "maruthi",
+      "role": "student",
+      "targetEntity": "Session",
+      "details": "Authenticated as p2@gmail.com (student)",
+      "timestamp": "2026-11-04 21:38:30"
+    },
+    {
+      "id": "audit_1793828265465_n2ru",
+      "action": "User Logout",
+      "performedBy": "maruthi",
+      "role": "faculty",
+      "targetEntity": "Session",
+      "details": "User logged out",
+      "timestamp": "2026-11-04 21:37:45"
+    },
+    {
+      "id": "audit_1793828218619_5tvy",
+      "action": "Assignment Created",
+      "performedBy": "maruthi",
+      "role": "faculty",
+      "targetEntity": "Assignment bhbjhbhbhbbjjuhjb",
+      "details": "Created for CS402, Due: 2026-11-01",
+      "timestamp": "2026-11-04 21:36:58"
+    },
+    {
+      "id": "audit_1793828163811_y3r7",
+      "action": "Attendance Recorded",
+      "performedBy": "maruthi",
+      "role": "faculty",
+      "targetEntity": "Subject CS401",
+      "details": "Recorded period attendance for 2 students on 2026-11-04 (CSE-A)",
+      "timestamp": "2026-11-04 21:36:03"
+    },
+    {
+      "id": "audit_1793828109088_ujpa",
+      "action": "User Login",
+      "performedBy": "maruthi",
+      "role": "faculty",
+      "targetEntity": "Session",
+      "details": "Authenticated as kumar1@gmail.com (faculty)",
+      "timestamp": "2026-11-04 21:35:09"
+    },
+    {
+      "id": "audit_1793828063719_1pij",
+      "action": "User Logout",
+      "performedBy": "Dr. Aris Thorne",
+      "role": "admin",
+      "targetEntity": "Session",
+      "details": "User logged out",
+      "timestamp": "2026-11-04 21:34:23"
+    },
+    {
+      "id": "audit_1793828004055_qd1x",
+      "action": "Faculty Allocation Updated",
+      "performedBy": "Dr. Aris Thorne",
+      "role": "admin",
+      "targetEntity": "Faculty pavan",
+      "details": "Allocated CS401 for section CSE-C",
+      "timestamp": "2026-11-04 21:33:24"
+    },
+    {
+      "id": "audit_1793827973376_4x84",
+      "action": "Section Updated",
+      "performedBy": "Dr. Aris Thorne",
+      "role": "admin",
+      "targetEntity": "Section CSE-VERIFY-9691",
+      "details": "Updated capacity to 60, status: active",
+      "timestamp": "2026-11-04 21:32:53"
+    },
+    {
+      "id": "audit_1793827863384_1u7y",
+      "action": "Announcement Broadcast",
+      "performedBy": "Admin",
+      "role": "admin",
+      "targetEntity": "Notice Post-Reconnection Network Verification Ping",
+      "details": "Target: STUDENTS, Priority: normal",
+      "timestamp": "2026-11-04 21:31:03"
+    },
+    {
+      "id": "audit_1793827863352_9xf8",
+      "action": "Announcement Broadcast",
+      "performedBy": "Admin",
+      "role": "admin",
+      "targetEntity": "Notice Spring Research Symposium 2026 Registration Open",
+      "details": "Target: STUDENTS, Priority: high",
+      "timestamp": "2026-11-04 21:31:03"
+    },
+    {
+      "id": "audit_1793827863337_sgrp",
+      "action": "Timetable Entry Removed",
+      "performedBy": "Admin",
+      "role": "admin",
+      "targetEntity": "Slot tt_1793827863315",
+      "details": "Deleted class period",
+      "timestamp": "2026-11-04 21:31:03"
+    },
+    {
+      "id": "audit_1793827863317_t758",
+      "action": "Timetable Entry Created",
+      "performedBy": "Admin",
+      "role": "admin",
+      "targetEntity": "Room Seminar Hall 501",
+      "details": "Scheduled CS401 on Saturday (10:00-11:00)",
+      "timestamp": "2026-11-04 21:31:03"
+    },
+    {
+      "id": "audit_1793827863296_1w35",
+      "action": "Submission Graded",
+      "performedBy": "Faculty",
+      "role": "faculty",
+      "targetEntity": "Submission sub_1793827863277",
+      "details": "Awarded 98 marks to Alex Mercer",
+      "timestamp": "2026-11-04 21:31:03"
+    },
+    {
+      "id": "audit_1793827863279_665y",
+      "action": "Assignment Submitted",
+      "performedBy": "Alex Mercer",
+      "role": "student",
+      "targetEntity": "Assignment Raft Consensus Implementation",
+      "details": "Submitted file: raft_cluster_v1.zip",
+      "timestamp": "2026-11-04 21:31:03"
+    },
+    {
+      "id": "audit_1793827863262_q7k7",
+      "action": "Assignment Created",
+      "performedBy": "Faculty",
+      "role": "faculty",
+      "targetEntity": "Assignment Raft Consensus Implementation",
+      "details": "Created for CS401, Due: 2026-04-15",
+      "timestamp": "2026-11-04 21:31:03"
+    },
+    {
+      "id": "audit_1793827863246_st00",
+      "action": "Attendance Recorded",
+      "performedBy": "Faculty",
+      "role": "faculty",
+      "targetEntity": "Subject CS401",
+      "details": "Recorded period attendance for 1 students on 2026-03-27 (A)",
+      "timestamp": "2026-11-04 21:31:03"
+    },
+    {
+      "id": "audit_1793827863221_nxf1",
+      "action": "Marks Submitted",
+      "performedBy": "Faculty",
+      "role": "faculty",
+      "targetEntity": "Assessment cia_1793827863182",
+      "details": "Recorded marks for 1 students",
+      "timestamp": "2026-11-04 21:31:03"
+    },
+    {
+      "id": "audit_1793827863184_az1n",
+      "action": "Assessment Created",
+      "performedBy": "Faculty",
+      "role": "faculty",
+      "targetEntity": "Assessment Realtime Distributed Systems Quiz 1",
+      "details": "Created CIA-1 for CS401 (50 marks)",
+      "timestamp": "2026-11-04 21:31:03"
+    },
+    {
+      "id": "audit_1793827848453_12z0",
+      "action": "Attendance Recorded",
+      "performedBy": "Faculty",
+      "role": "faculty",
+      "targetEntity": "Subject CS401",
+      "details": "Recorded period attendance for 1 students on 2026-11-05 (A)",
+      "timestamp": "2026-11-04 21:30:48"
+    },
+    {
+      "id": "audit_1793827848436_8jvs",
+      "action": "Assessment Created",
+      "performedBy": "Faculty",
+      "role": "faculty",
+      "targetEntity": "Assessment Unit Quiz: 8423",
+      "details": "Created Quiz for CS401 (25 marks)",
+      "timestamp": "2026-11-04 21:30:48"
+    },
+    {
+      "id": "audit_1793827848413_b1w2",
+      "action": "Assignment Created",
+      "performedBy": "Faculty",
+      "role": "faculty",
+      "targetEntity": "Assignment Lab Report: 8404",
+      "details": "Created for CS401, Due: 2026-11-20",
+      "timestamp": "2026-11-04 21:30:48"
+    },
+    {
+      "id": "audit_1793827848395_tjmw",
+      "action": "Subject Created",
+      "performedBy": "Admin",
+      "role": "admin",
+      "targetEntity": "Subject CS547",
+      "details": "Added curriculum: Advanced Quantum & Neural Networks (Theory, Sem 6)",
+      "timestamp": "2026-11-04 21:30:48"
+    },
+    {
+      "id": "audit_1793827848375_uiqd",
+      "action": "Section Created",
+      "performedBy": "Admin",
+      "role": "admin",
+      "targetEntity": "Section CSE-VERIFY-8363",
+      "details": "Created in CSE with capacity 60",
+      "timestamp": "2026-11-04 21:30:48"
+    },
+    {
+      "id": "audit_1793827659777_ofty",
+      "action": "Attendance Recorded",
+      "performedBy": "Faculty",
+      "role": "faculty",
+      "targetEntity": "Subject CS401",
+      "details": "Recorded period attendance for 1 students on 2026-11-05 (A)",
+      "timestamp": "2026-11-04 21:27:39"
+    },
+    {
+      "id": "audit_1793827659760_9g9e",
+      "action": "Assessment Created",
+      "performedBy": "Faculty",
+      "role": "faculty",
+      "targetEntity": "Assessment Unit Quiz: 9753",
+      "details": "Created Quiz for CS401 (25 marks)",
+      "timestamp": "2026-11-04 21:27:39"
+    },
+    {
+      "id": "audit_1793827659741_rcgb",
+      "action": "Assignment Created",
+      "performedBy": "Faculty",
+      "role": "faculty",
+      "targetEntity": "Assignment Lab Report: 9734",
+      "details": "Created for CS401, Due: 2026-11-20",
+      "timestamp": "2026-11-04 21:27:39"
+    },
+    {
+      "id": "audit_1793827659721_tq5p",
+      "action": "Subject Created",
+      "performedBy": "Admin",
+      "role": "admin",
+      "targetEntity": "Subject CS577",
+      "details": "Added curriculum: Advanced Quantum & Neural Networks (Theory, Sem 6)",
+      "timestamp": "2026-11-04 21:27:39"
+    },
+    {
+      "id": "audit_1793827659701_hm57",
+      "action": "Section Created",
+      "performedBy": "Admin",
+      "role": "admin",
+      "targetEntity": "Section CSE-VERIFY-9691",
+      "details": "Created in CSE with capacity 60",
+      "timestamp": "2026-11-04 21:27:39"
+    },
+    {
+      "id": "audit_1793827623536_1x5z",
+      "action": "Announcement Broadcast",
+      "performedBy": "Admin",
+      "role": "admin",
+      "targetEntity": "Notice Post-Reconnection Network Verification Ping",
+      "details": "Target: STUDENTS, Priority: normal",
+      "timestamp": "2026-11-04 21:27:03"
+    },
+    {
+      "id": "audit_1793827623497_9jr8",
+      "action": "Announcement Broadcast",
+      "performedBy": "Admin",
+      "role": "admin",
+      "targetEntity": "Notice Spring Research Symposium 2026 Registration Open",
+      "details": "Target: STUDENTS, Priority: high",
+      "timestamp": "2026-11-04 21:27:03"
+    },
+    {
+      "id": "audit_1793827623478_xy5f",
+      "action": "Timetable Entry Removed",
+      "performedBy": "Admin",
+      "role": "admin",
+      "targetEntity": "Slot tt_1793827623460",
+      "details": "Deleted class period",
+      "timestamp": "2026-11-04 21:27:03"
+    }
+  ],
+  "onlineExams": [
+    {
+      "id": "ox_1793874620377",
+      "title": "bjhgfvhbjkl",
+      "description": "Please read all instructions before starting. Choose one answer for each multiple-choice question. Tab switches and window closes are monitored for attendance.",
+      "instructions": "",
+      "departmentId": "dept_cse",
+      "departmentName": "Computer Science & Engineering",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "subjectName": "Distributed Systems & Cloud Computing",
+      "semester": 6,
+      "section": "All",
+      "facultyId": "usr_1793825244615_05wn",
+      "facultyName": "maruthi",
+      "examDate": "2026-11-05",
+      "startTime": "16:00",
+      "endTime": "16:30",
+      "durationMinutes": 60,
+      "totalMarks": 30,
+      "passMarks": 12,
+      "negativeMarking": false,
+      "negativeMarksPerQuestion": 0,
+      "maxAttempts": 1,
+      "resultPublication": "MANUAL_RELEASE",
+      "resultsReleased": true,
+      "status": "PUBLISHED",
+      "questions": [
+        {
+          "id": "q_1793874661463_z6in",
+          "questionNumber": 1,
+          "questionText": "pavan",
+          "options": [
+            {
+              "key": "A",
+              "text": "a"
+            },
+            {
+              "key": "B",
+              "text": "b"
+            },
+            {
+              "key": "C",
+              "text": "v"
+            },
+            {
+              "key": "D",
+              "text": "b"
+            }
+          ],
+          "correctAnswer": "A",
+          "marks": 10,
+          "negativeMarks": 0,
+          "explanation": ""
+        },
+        {
+          "id": "q_1793874689107_gfju",
+          "questionNumber": 2,
+          "questionText": "vinodv",
+          "options": [
+            {
+              "key": "A",
+              "text": "v"
+            },
+            {
+              "key": "B",
+              "text": "vvv"
+            },
+            {
+              "key": "C",
+              "text": "v"
+            },
+            {
+              "key": "D",
+              "text": "v"
+            }
+          ],
+          "correctAnswer": "B",
+          "marks": 10,
+          "negativeMarks": 0,
+          "explanation": ""
+        },
+        {
+          "id": "q_1793874719956_zrto",
+          "questionNumber": 3,
+          "questionText": "pavankumar",
+          "options": [
+            {
+              "key": "A",
+              "text": "m"
+            },
+            {
+              "key": "B",
+              "text": "m"
+            },
+            {
+              "key": "C",
+              "text": ","
+            },
+            {
+              "key": "D",
+              "text": "m"
+            }
+          ],
+          "correctAnswer": "C",
+          "marks": 10,
+          "negativeMarks": 0,
+          "explanation": ""
+        }
+      ],
+      "createdAt": "2026-11-05T10:30:20.377Z",
+      "updatedAt": "2026-11-05T10:34:11.403Z"
+    },
+    {
+      "id": "ox_1793874398604",
+      "title": "DBMS Unit Test 1",
+      "description": "Relational algebra and SQL queries objective examination.",
+      "instructions": "Choose the most appropriate option for each question.",
+      "departmentId": "dept_cse",
+      "departmentName": "Computer Science & Engineering",
+      "subjectId": "sub_cs501",
+      "subjectCode": "CS501",
+      "subjectName": "Database Management Systems (DBMS)",
+      "semester": 5,
+      "section": "CSE-A",
+      "facultyId": "usr_fac_01",
+      "facultyName": "Prof. Marcus Vance",
+      "examDate": "2026-11-05",
+      "startTime": "10:00",
+      "endTime": "23:59",
+      "durationMinutes": 45,
+      "totalMarks": 20,
+      "passMarks": 8,
+      "negativeMarking": false,
+      "negativeMarksPerQuestion": 0,
+      "maxAttempts": 1,
+      "resultPublication": "MANUAL_RELEASE",
+      "resultsReleased": true,
+      "status": "PUBLISHED",
+      "questions": [
+        {
+          "id": "q_1793874398604_1",
+          "questionNumber": 1,
+          "questionText": "Which normal form eliminates partial functional dependencies on the candidate key?",
+          "options": [
+            {
+              "key": "A",
+              "text": "First Normal Form (1NF)"
+            },
+            {
+              "key": "B",
+              "text": "Second Normal Form (2NF)"
+            },
+            {
+              "key": "C",
+              "text": "Third Normal Form (3NF)"
+            },
+            {
+              "key": "D",
+              "text": "Boyce-Codd Normal Form (BCNF)"
+            }
+          ],
+          "correctAnswer": "B",
+          "marks": 10,
+          "negativeMarks": 0,
+          "explanation": "2NF requires relation to be in 1NF and all non-prime attributes to be fully functionally dependent on candidate key."
+        },
+        {
+          "id": "q_1793874398604_2",
+          "questionNumber": 2,
+          "questionText": "Which ACID property is guaranteed by Write-Ahead Logging (WAL) and recovery manager?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Atomicity and Durability"
+            },
+            {
+              "key": "B",
+              "text": "Isolation and Consistency"
+            },
+            {
+              "key": "C",
+              "text": "Scalability and Latency"
+            },
+            {
+              "key": "D",
+              "text": "Availability and Partition Tolerance"
+            }
+          ],
+          "correctAnswer": "A",
+          "marks": 10,
+          "negativeMarks": 0,
+          "explanation": "WAL ensures atomic commit/abort and durable persistence across power failures."
+        }
+      ],
+      "createdAt": "2026-11-05T10:26:38.604Z",
+      "updatedAt": "2026-11-05T10:27:20.757Z"
+    },
+    {
+      "id": "ox_1793874318920",
+      "title": "DBMS Unit Test 1",
+      "description": "Relational algebra and SQL queries objective examination.",
+      "instructions": "Choose the most appropriate option for each question.",
+      "departmentId": "dept_cse",
+      "departmentName": "Computer Science & Engineering",
+      "subjectId": "sub_cs501",
+      "subjectCode": "CS501",
+      "subjectName": "Database Management Systems (DBMS)",
+      "semester": 5,
+      "section": "CSE-A",
+      "facultyId": "usr_fac_01",
+      "facultyName": "Prof. Marcus Vance",
+      "examDate": "2026-11-05",
+      "startTime": "10:00",
+      "endTime": "23:59",
+      "durationMinutes": 45,
+      "totalMarks": 20,
+      "passMarks": 8,
+      "negativeMarking": false,
+      "negativeMarksPerQuestion": 0,
+      "maxAttempts": 1,
+      "resultPublication": "MANUAL_RELEASE",
+      "resultsReleased": false,
+      "status": "PUBLISHED",
+      "questions": [
+        {
+          "id": "q_1793874318920_1",
+          "questionNumber": 1,
+          "questionText": "Which normal form eliminates partial functional dependencies on the candidate key?",
+          "options": [
+            {
+              "key": "A",
+              "text": "First Normal Form (1NF)"
+            },
+            {
+              "key": "B",
+              "text": "Second Normal Form (2NF)"
+            },
+            {
+              "key": "C",
+              "text": "Third Normal Form (3NF)"
+            },
+            {
+              "key": "D",
+              "text": "Boyce-Codd Normal Form (BCNF)"
+            }
+          ],
+          "correctAnswer": "B",
+          "marks": 10,
+          "negativeMarks": 0,
+          "explanation": "2NF requires relation to be in 1NF and all non-prime attributes to be fully functionally dependent on candidate key."
+        },
+        {
+          "id": "q_1793874318920_2",
+          "questionNumber": 2,
+          "questionText": "Which ACID property is guaranteed by Write-Ahead Logging (WAL) and recovery manager?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Atomicity and Durability"
+            },
+            {
+              "key": "B",
+              "text": "Isolation and Consistency"
+            },
+            {
+              "key": "C",
+              "text": "Scalability and Latency"
+            },
+            {
+              "key": "D",
+              "text": "Availability and Partition Tolerance"
+            }
+          ],
+          "correctAnswer": "A",
+          "marks": 10,
+          "negativeMarks": 0,
+          "explanation": "WAL ensures atomic commit/abort and durable persistence across power failures."
+        }
+      ],
+      "createdAt": "2026-11-05T10:25:18.920Z",
+      "updatedAt": "2026-11-05T10:25:18.920Z"
+    },
+    {
+      "id": "ox_1793872371876",
+      "title": "kjhgfdfyui",
+      "description": "Please read all instructions before starting. Choose one answer for each multiple-choice question. Tab switches and window closes are monitored for attendance.",
+      "instructions": "",
+      "departmentId": "dept_cse",
+      "departmentName": "Computer Science & Engineering",
+      "subjectId": "sub_cs402",
+      "subjectCode": "CS402",
+      "subjectName": "Database Internals & Storage Engines",
+      "semester": 6,
+      "section": "CSE-B",
+      "facultyId": "usr_1793825244615_05wn",
+      "facultyName": "maruthi",
+      "examDate": "2026-11-05",
+      "startTime": "15:24",
+      "endTime": "15:30",
+      "durationMinutes": 60,
+      "totalMarks": 30,
+      "passMarks": 12,
+      "negativeMarking": false,
+      "negativeMarksPerQuestion": 0,
+      "maxAttempts": 1,
+      "resultPublication": "MANUAL_RELEASE",
+      "resultsReleased": false,
+      "status": "PUBLISHED",
+      "questions": [
+        {
+          "id": "q_1793872384956_wdd2",
+          "questionNumber": 1,
+          "questionText": "hjnkml",
+          "options": [
+            {
+              "key": "A",
+              "text": "hj"
+            },
+            {
+              "key": "B",
+              "text": "j"
+            },
+            {
+              "key": "C",
+              "text": "j"
+            },
+            {
+              "key": "D",
+              "text": "j"
+            }
+          ],
+          "correctAnswer": "A",
+          "marks": 10,
+          "negativeMarks": 0,
+          "explanation": ""
+        },
+        {
+          "id": "q_1793872397938_8707",
+          "questionNumber": 2,
+          "questionText": "m",
+          "options": [
+            {
+              "key": "A",
+              "text": "k"
+            },
+            {
+              "key": "B",
+              "text": "k"
+            },
+            {
+              "key": "C",
+              "text": "k"
+            },
+            {
+              "key": "D",
+              "text": "k"
+            }
+          ],
+          "correctAnswer": "A",
+          "marks": 10,
+          "negativeMarks": 0,
+          "explanation": ""
+        },
+        {
+          "id": "q_1793872410922_bgli",
+          "questionNumber": 3,
+          "questionText": "458",
+          "options": [
+            {
+              "key": "A",
+              "text": ","
+            },
+            {
+              "key": "B",
+              "text": "."
+            },
+            {
+              "key": "C",
+              "text": "."
+            },
+            {
+              "key": "D",
+              "text": ","
+            }
+          ],
+          "correctAnswer": "A",
+          "marks": 10,
+          "negativeMarks": 0,
+          "explanation": ""
+        }
+      ],
+      "createdAt": "2026-11-05T09:52:51.876Z",
+      "updatedAt": "2026-11-05T09:53:33.328Z"
+    },
+    {
+      "id": "ox_1793871964101",
+      "title": "pavan",
+      "description": "Please read all instructions before starting. Choose one answer for each multiple-choice question. Tab switches and window closes are monitored for attendance.",
+      "instructions": "",
+      "departmentId": "dept_cse",
+      "departmentName": "Computer Science & Engineering",
+      "subjectId": "sub_cs401",
+      "subjectCode": "CS401",
+      "subjectName": "Distributed Systems & Cloud Computing",
+      "semester": 6,
+      "section": "CSE-B",
+      "facultyId": "usr_1793825244615_05wn",
+      "facultyName": "maruthi",
+      "examDate": "2026-11-05",
+      "startTime": "15:15",
+      "endTime": "15:30",
+      "durationMinutes": 60,
+      "totalMarks": 30,
+      "passMarks": 12,
+      "negativeMarking": false,
+      "negativeMarksPerQuestion": 0,
+      "maxAttempts": 1,
+      "resultPublication": "MANUAL_RELEASE",
+      "resultsReleased": true,
+      "status": "PUBLISHED",
+      "questions": [
+        {
+          "id": "q_1793871979377_ocxo",
+          "questionNumber": 1,
+          "questionText": ", s,,axsasas",
+          "options": [
+            {
+              "key": "A",
+              "text": "x"
+            },
+            {
+              "key": "B",
+              "text": "s"
+            },
+            {
+              "key": "C",
+              "text": "s"
+            },
+            {
+              "key": "D",
+              "text": "s"
+            }
+          ],
+          "correctAnswer": "D",
+          "marks": 10,
+          "negativeMarks": 0,
+          "explanation": ""
+        },
+        {
+          "id": "q_1793871994243_mpdf",
+          "questionNumber": 2,
+          "questionText": "sssssss",
+          "options": [
+            {
+              "key": "A",
+              "text": "aa"
+            },
+            {
+              "key": "B",
+              "text": "xsx"
+            },
+            {
+              "key": "C",
+              "text": "a"
+            },
+            {
+              "key": "D",
+              "text": "saa"
+            }
+          ],
+          "correctAnswer": "C",
+          "marks": 10,
+          "negativeMarks": 0,
+          "explanation": ""
+        },
+        {
+          "id": "q_1793872010241_j21n",
+          "questionNumber": 3,
+          "questionText": "assasas",
+          "options": [
+            {
+              "key": "A",
+              "text": "a"
+            },
+            {
+              "key": "B",
+              "text": "ede"
+            },
+            {
+              "key": "C",
+              "text": "dd"
+            },
+            {
+              "key": "D",
+              "text": "d87d74"
+            }
+          ],
+          "correctAnswer": "C",
+          "marks": 10,
+          "negativeMarks": 0,
+          "explanation": ""
+        }
+      ],
+      "createdAt": "2026-11-05T09:46:04.101Z",
+      "updatedAt": "2026-11-05T09:48:25.826Z"
+    },
+    {
+      "id": "ox_1793868766670",
+      "title": "test",
+      "description": "Please read all instructions before starting. Choose one answer for each multiple-choice question. Tab switches and window closes are monitored for attendance.",
+      "instructions": "",
+      "departmentId": "dept_cse",
+      "departmentName": "Computer Science & Engineering",
+      "subjectId": "sub_cs402",
+      "subjectCode": "CS402",
+      "subjectName": "Database Internals & Storage Engines",
+      "semester": 6,
+      "section": "CSE-A",
+      "facultyId": "usr_1793825244615_05wn",
+      "facultyName": "maruthi",
+      "examDate": "2026-11-05",
+      "startTime": "14:24",
+      "endTime": "23:59",
+      "durationMinutes": 60,
+      "totalMarks": 30,
+      "passMarks": 12,
+      "negativeMarking": false,
+      "negativeMarksPerQuestion": 0,
+      "maxAttempts": 3,
+      "resultPublication": "MANUAL_RELEASE",
+      "resultsReleased": false,
+      "status": "PUBLISHED",
+      "questions": [
+        {
+          "id": "q_1793868788704_ngfj",
+          "questionNumber": 1,
+          "questionText": "pavan",
+          "options": [
+            {
+              "key": "A",
+              "text": "nj"
+            },
+            {
+              "key": "B",
+              "text": "ss"
+            },
+            {
+              "key": "C",
+              "text": "ss"
+            },
+            {
+              "key": "D",
+              "text": "ss"
+            }
+          ],
+          "correctAnswer": "A",
+          "marks": 10,
+          "negativeMarks": 0,
+          "explanation": ""
+        },
+        {
+          "id": "q_1793868804414_scd6",
+          "questionNumber": 2,
+          "questionText": "sw hsbj",
+          "options": [
+            {
+              "key": "A",
+              "text": "njndk"
+            },
+            {
+              "key": "B",
+              "text": "sjwsk"
+            },
+            {
+              "key": "C",
+              "text": "snjwn"
+            },
+            {
+              "key": "D",
+              "text": "snjwns"
+            }
+          ],
+          "correctAnswer": "C",
+          "marks": 10,
+          "negativeMarks": 0,
+          "explanation": ""
+        },
+        {
+          "id": "q_1793868847074_1g7a",
+          "questionNumber": 3,
+          "questionText": "er ,felfledfed",
+          "options": [
+            {
+              "key": "A",
+              "text": "nsjwnsiw"
+            },
+            {
+              "key": "B",
+              "text": "s nkjsn"
+            },
+            {
+              "key": "C",
+              "text": "swnjsbwi"
+            },
+            {
+              "key": "D",
+              "text": "sjwbs"
+            }
+          ],
+          "correctAnswer": "B",
+          "marks": 10,
+          "negativeMarks": 0,
+          "explanation": ""
+        }
+      ],
+      "createdAt": "2026-11-05T08:52:46.670Z",
+      "updatedAt": "2026-11-05T09:41:32.701Z"
+    },
+    {
+      "id": "ox_1793866372589",
+      "title": "test",
+      "description": "Please read all instructions before starting. Choose one answer for each multiple-choice question. Tab switches and window closes are monitored for attendance.",
+      "instructions": "",
+      "departmentId": "dept_cse",
+      "departmentName": "Computer Science & Engineering",
+      "subjectId": "sub_cs403",
+      "subjectCode": "CS403",
+      "subjectName": "Computer Networks & Security",
+      "semester": 6,
+      "section": "CSE-A",
+      "facultyId": "usr_1793825244615_05wn",
+      "facultyName": "maruthi",
+      "examDate": "2026-11-05",
+      "startTime": "13:46",
+      "endTime": "14:00",
+      "durationMinutes": 60,
+      "totalMarks": 30,
+      "passMarks": 12,
+      "negativeMarking": false,
+      "negativeMarksPerQuestion": 0,
+      "maxAttempts": 1,
+      "resultPublication": "MANUAL_RELEASE",
+      "resultsReleased": true,
+      "status": "PUBLISHED",
+      "questions": [
+        {
+          "id": "q_1793866387973_g0oy",
+          "questionNumber": 1,
+          "questionText": "pavan",
+          "options": [
+            {
+              "key": "A",
+              "text": "a"
+            },
+            {
+              "key": "B",
+              "text": "a"
+            },
+            {
+              "key": "C",
+              "text": "a"
+            },
+            {
+              "key": "D",
+              "text": "a"
+            }
+          ],
+          "correctAnswer": "D",
+          "marks": 10,
+          "negativeMarks": 0,
+          "explanation": ""
+        },
+        {
+          "id": "q_1793866406634_mh2b",
+          "questionNumber": 2,
+          "questionText": "maruthi",
+          "options": [
+            {
+              "key": "A",
+              "text": "a"
+            },
+            {
+              "key": "B",
+              "text": "a"
+            },
+            {
+              "key": "C",
+              "text": "a"
+            },
+            {
+              "key": "D",
+              "text": "a"
+            }
+          ],
+          "correctAnswer": "C",
+          "marks": 10,
+          "negativeMarks": 0,
+          "explanation": ""
+        },
+        {
+          "id": "q_1793866418645_ltfp",
+          "questionNumber": 3,
+          "questionText": "bsg",
+          "options": [
+            {
+              "key": "A",
+              "text": "w"
+            },
+            {
+              "key": "B",
+              "text": "w"
+            },
+            {
+              "key": "C",
+              "text": "w"
+            },
+            {
+              "key": "D",
+              "text": "w"
+            }
+          ],
+          "correctAnswer": "A",
+          "marks": 10,
+          "negativeMarks": 0,
+          "explanation": ""
+        }
+      ],
+      "createdAt": "2026-11-05T08:12:52.589Z",
+      "updatedAt": "2026-11-05T08:13:58.792Z"
+    }
+  ],
+  "examAttempts": [
+    {
+      "id": "att_1793866501001_1793819400031_u1pz",
+      "examId": "ox_1793866372589",
+      "studentId": "std_1793819400031_u1pz",
+      "studentName": "maruthi",
+      "rollNumber": "990000004",
+      "departmentId": "dept_cse",
+      "semester": 6,
+      "section": "CSE-A",
+      "attemptNumber": 1,
+      "startTime": "2026-11-05T08:15:01.001Z",
+      "status": "SUBMITTED",
+      "answers": {
+        "q_1793866387973_g0oy": "D",
+        "q_1793866406634_mh2b": "C",
+        "q_1793866418645_ltfp": "A"
+      },
+      "markedForReview": [],
+      "submitTime": "2026-11-05T08:15:16.649Z",
+      "timeSpentSeconds": 15,
+      "score": 30,
+      "totalMarks": 30,
+      "totalMarksObtained": 30,
+      "totalMaxMarks": 30,
+      "percentage": 100,
+      "passed": true,
+      "isPassed": true,
+      "correctCount": 3,
+      "incorrectCount": 0,
+      "unansweredCount": 0,
+      "questionEvaluations": [
+        {
+          "questionId": "q_1793866387973_g0oy",
+          "selectedOption": "D",
+          "correctOption": "D",
+          "isCorrect": true,
+          "marksAwarded": 10,
+          "explanation": ""
+        },
+        {
+          "questionId": "q_1793866406634_mh2b",
+          "selectedOption": "C",
+          "correctOption": "C",
+          "isCorrect": true,
+          "marksAwarded": 10,
+          "explanation": ""
+        },
+        {
+          "questionId": "q_1793866418645_ltfp",
+          "selectedOption": "A",
+          "correctOption": "A",
+          "isCorrect": true,
+          "marksAwarded": 10,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "att_1793872041683_1793819400031_u1pz",
+      "examId": "ox_1793868766670",
+      "studentId": "std_1793819400031_u1pz",
+      "studentName": "maruthi",
+      "rollNumber": "990000004",
+      "departmentId": "dept_cse",
+      "semester": 6,
+      "section": "CSE-A",
+      "attemptNumber": 1,
+      "startTime": "2026-11-05T09:47:21.683Z",
+      "status": "SUBMITTED",
+      "answers": {
+        "q_1793868788704_ngfj": "D",
+        "q_1793868804414_scd6": "C",
+        "q_1793868847074_1g7a": "C"
+      },
+      "markedForReview": [],
+      "submitTime": "2026-11-05T09:47:49.923Z",
+      "timeSpentSeconds": 28,
+      "score": 10,
+      "totalMarks": 30,
+      "totalMarksObtained": 10,
+      "totalMaxMarks": 30,
+      "percentage": 33.3,
+      "passed": false,
+      "isPassed": false,
+      "correctCount": 1,
+      "incorrectCount": 2,
+      "unansweredCount": 0,
+      "questionEvaluations": [
+        {
+          "questionId": "q_1793868788704_ngfj",
+          "selectedOption": "D",
+          "correctOption": "A",
+          "isCorrect": false,
+          "marksAwarded": 0,
+          "explanation": ""
+        },
+        {
+          "questionId": "q_1793868804414_scd6",
+          "selectedOption": "C",
+          "correctOption": "C",
+          "isCorrect": true,
+          "marksAwarded": 10,
+          "explanation": ""
+        },
+        {
+          "questionId": "q_1793868847074_1g7a",
+          "selectedOption": "C",
+          "correctOption": "B",
+          "isCorrect": false,
+          "marksAwarded": 0,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "att_1793872200903_1793819331233_bl76",
+      "examId": "ox_1793868766670",
+      "studentId": "std_1793819331233_bl76",
+      "studentName": "pavan",
+      "rollNumber": "990000003",
+      "departmentId": "dept_cse",
+      "semester": 6,
+      "section": "CSE-A",
+      "attemptNumber": 1,
+      "startTime": "2026-11-05T09:50:00.903Z",
+      "status": "SUBMITTED",
+      "answers": {
+        "q_1793868788704_ngfj": "B",
+        "q_1793868804414_scd6": "D",
+        "q_1793868847074_1g7a": "C"
+      },
+      "markedForReview": [],
+      "submitTime": "2026-11-05T09:50:10.298Z",
+      "timeSpentSeconds": 9,
+      "score": 0,
+      "totalMarks": 30,
+      "totalMarksObtained": 0,
+      "totalMaxMarks": 30,
+      "percentage": 0,
+      "passed": false,
+      "isPassed": false,
+      "correctCount": 0,
+      "incorrectCount": 3,
+      "unansweredCount": 0,
+      "questionEvaluations": [
+        {
+          "questionId": "q_1793868788704_ngfj",
+          "selectedOption": "B",
+          "correctOption": "A",
+          "isCorrect": false,
+          "marksAwarded": 0,
+          "explanation": ""
+        },
+        {
+          "questionId": "q_1793868804414_scd6",
+          "selectedOption": "D",
+          "correctOption": "C",
+          "isCorrect": false,
+          "marksAwarded": 0,
+          "explanation": ""
+        },
+        {
+          "questionId": "q_1793868847074_1g7a",
+          "selectedOption": "C",
+          "correctOption": "B",
+          "isCorrect": false,
+          "marksAwarded": 0,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "att_1793874399098_cse5a",
+      "examId": "ox_1793874398604",
+      "studentId": "std_cse5a",
+      "studentName": "Aarav Patel (CSE Sem 5 Sec A)",
+      "rollNumber": "990000051",
+      "departmentId": "dept_cse",
+      "semester": 5,
+      "section": "CSE-A",
+      "attemptNumber": 1,
+      "startTime": "2026-11-05T10:26:39.098Z",
+      "status": "SUBMITTED",
+      "answers": {
+        "q_1793874398604_1": "B"
+      },
+      "markedForReview": [],
+      "submitTime": "2026-11-05T10:27:04.428Z",
+      "timeSpentSeconds": 25,
+      "score": 10,
+      "totalMarks": 20,
+      "totalMarksObtained": 10,
+      "totalMaxMarks": 20,
+      "percentage": 50,
+      "passed": true,
+      "isPassed": true,
+      "correctCount": 1,
+      "incorrectCount": 0,
+      "unansweredCount": 1,
+      "questionEvaluations": [
+        {
+          "questionId": "q_1793874398604_1",
+          "selectedOption": "B",
+          "correctOption": "B",
+          "isCorrect": true,
+          "marksAwarded": 10,
+          "explanation": "2NF requires relation to be in 1NF and all non-prime attributes to be fully functionally dependent on candidate key."
+        },
+        {
+          "questionId": "q_1793874398604_2",
+          "selectedOption": "",
+          "correctOption": "A",
+          "isCorrect": false,
+          "marksAwarded": 0,
+          "explanation": "WAL ensures atomic commit/abort and durable persistence across power failures."
+        }
+      ]
+    },
+    {
+      "id": "att_1793874779626_1793819400031_u1pz",
+      "examId": "ox_1793874620377",
+      "studentId": "std_1793819400031_u1pz",
+      "studentName": "maruthi",
+      "rollNumber": "990000004",
+      "departmentId": "dept_cse",
+      "semester": 6,
+      "section": "CSE-A",
+      "attemptNumber": 1,
+      "startTime": "2026-11-05T10:32:59.626Z",
+      "status": "SUBMITTED",
+      "answers": {
+        "q_1793874661463_z6in": "A",
+        "q_1793874689107_gfju": "B",
+        "q_1793874719956_zrto": "C"
+      },
+      "markedForReview": [],
+      "submitTime": "2026-11-05T10:33:15.889Z",
+      "timeSpentSeconds": 16,
+      "score": 30,
+      "totalMarks": 30,
+      "totalMarksObtained": 30,
+      "totalMaxMarks": 30,
+      "percentage": 100,
+      "passed": true,
+      "isPassed": true,
+      "correctCount": 3,
+      "incorrectCount": 0,
+      "unansweredCount": 0,
+      "questionEvaluations": [
+        {
+          "questionId": "q_1793874661463_z6in",
+          "selectedOption": "A",
+          "correctOption": "A",
+          "isCorrect": true,
+          "marksAwarded": 10,
+          "explanation": ""
+        },
+        {
+          "questionId": "q_1793874689107_gfju",
+          "selectedOption": "B",
+          "correctOption": "B",
+          "isCorrect": true,
+          "marksAwarded": 10,
+          "explanation": ""
+        },
+        {
+          "questionId": "q_1793874719956_zrto",
+          "selectedOption": "C",
+          "correctOption": "C",
+          "isCorrect": true,
+          "marksAwarded": 10,
+          "explanation": ""
+        }
+      ]
+    }
+  ],
+  "courseEnrollments": [
+    {
+      "id": "enr_std_cse5a_cs501",
+      "studentId": "std_cse5a",
+      "subjectId": "sub_cs501",
+      "subjectCode": "CS501",
+      "subjectName": "Database Management Systems (DBMS)",
+      "semester": 5,
+      "academicYear": "2026-2027",
+      "status": "enrolled",
+      "enrolledAt": "2026-08-01"
+    },
+    {
+      "id": "enr_std_cse5b_cs501",
+      "studentId": "std_cse5b",
+      "subjectId": "sub_cs501",
+      "subjectCode": "CS501",
+      "subjectName": "Database Management Systems (DBMS)",
+      "semester": 5,
+      "academicYear": "2026-2027",
+      "status": "enrolled",
+      "enrolledAt": "2026-08-01"
+    }
+  ]
+}

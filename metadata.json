@@ -1,0 +1,6 @@
+{
+  "name": "Edu Track – Student Academic Management System",
+  "description": "A modern, premium university academic management platform with role-based portals for Students, Faculty, and Administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
